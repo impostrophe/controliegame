@@ -1,0 +1,583 @@
+﻿Log file open, 10/16/18 18:59:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ControliePractice
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.320134
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin DatasmithMDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogStreaming: Display: Took  0.388s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD FX(tm)-8350 Eight-Core Processor           , GPU: AMD Radeon R9 200 Series
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: E:/Unreal_Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.16-23.59.10:872][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.16-23.59.10:872][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.16-23.59.11:050][  0]LogHAL: Display: Platform has ~ 16 GB [17075896320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.16-23.59.11:050][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.16-23.59.11:050][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.16-23.59.11:074][  0]LogInit: Computer: BLACKWIDOW-PC
+[2018.10.16-23.59.11:074][  0]LogInit: User: Rayray
+[2018.10.16-23.59.11:074][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.16-23.59.11:074][  0]LogInit: High frequency timer resolution =3.919293 MHz
+[2018.10.16-23.59.11:075][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.16-23.59.11:075][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.16-23.59.11:075][  0]LogMemory: Process Physical Memory: 105.25 MB used, 105.25 MB peak
+[2018.10.16-23.59.11:075][  0]LogMemory: Process Virtual Memory: 90.55 MB used, 90.55 MB peak
+[2018.10.16-23.59.11:075][  0]LogMemory: Physical Memory: 9881.13 MB used,  6403.72 MB free, 16284.84 MB total
+[2018.10.16-23.59.11:075][  0]LogMemory: Virtual Memory: 4651.38 MB used,  6403.72 MB free, 134217728.00 MB total
+[2018.10.16-23.59.11:134][  0]LogInit: Using OS detected language (en-US).
+[2018.10.16-23.59.11:134][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.16-23.59.11:167][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.16-23.59.11:946][  0]LogStreaming: Display: Took  0.813s to InitEngineTextLocalization.
+[2018.10.16-23.59.11:948][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.16-23.59.12:321][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.16-23.59.12:322][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.16-23.59.21:820][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.10.16-23.59.21:820][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.16-23.59.21:861][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2018.10.16-23.59.21:861][  0]LogD3D11RHI:       4072/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.10.16-23.59.21:863][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.16-23.59.21:863][  0]LogD3D11RHI:       0/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.16-23.59.21:863][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.16-23.59.21:875][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.16-23.59.21:875][  0]LogD3D11RHI:     GPU DeviceId: 0x67b0 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.16-23.59.21:875][  0]LogWindows: EnumDisplayDevices:
+[2018.10.16-23.59.21:876][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2018.10.16-23.59.21:876][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2018.10.16-23.59.21:876][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.16-23.59.21:877][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.16-23.59.21:877][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.16-23.59.21:878][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.16-23.59.21:878][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2018.10.16-23.59.21:878][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2018.10.16-23.59.21:878][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:22.19.677.257, unified:22.19.677.257)
+[2018.10.16-23.59.21:878][  0]LogD3D11RHI:      Driver Date: 9-22-2017
+[2018.10.16-23.59.21:878][  0]LogRHI: Texture pool is 2850 MB (70% of 4072 MB)
+[2018.10.16-23.59.21:923][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.16-23.59.21:936][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.10.16-23.59.21:937][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../controliegit/controliegame/ControliePractice/Intermediate/Shaders/WorkingDirectory/4308/).
+[2018.10.16-23.59.21:937][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rayray/AppData/Local/Temp/UnrealShaderWorkingDir/1A8F8A8C4B65A66153FC79ADDAE5F677/'.
+[2018.10.16-23.59.22:713][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.16-23.59.22:733][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.16-23.59.22:754][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.16-23.59.22:774][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.16-23.59.22:835][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.16-23.59.22:863][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.16-23.59.22:884][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.16-23.59.22:906][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.16-23.59.22:917][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:085][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:085][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:085][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-23.59.23:086][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.16-23.59.23:239][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.16-23.59.23:239][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.16-23.59.23:295][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.16-23.59.23:295][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.16-23.59.23:318][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.16-23.59.23:339][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.16-23.59.23:360][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.16-23.59.23:385][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.16-23.59.23:399][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.16-23.59.23:399][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.16-23.59.23:844][  0]LogXGEController: Cleaning working directory: C:/Users/Rayray/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.16-23.59.23:844][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.16-23.59.23:844][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.16-23.59.23:844][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.16-23.59.27:855][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.16-23.59.28:223][  0]LogDerivedDataCache: Loaded boot cache 0.37s 73MB C:/Users/Rayray/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.16-23.59.28:223][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Rayray/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.16-23.59.28:224][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../controliegit/controliegame/ControliePractice/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.16-23.59.28:224][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.16-23.59.28:224][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../controliegit/controliegame/ControliePractice/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.16-23.59.28:224][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.16-23.59.28:258][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.16-23.59.28:271][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rayray/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.16-23.59.28:271][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.16-23.59.28:271][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.16-23.59.28:306][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.16-23.59.28:308][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.16-23.59.28:346][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.16-23.59.29:233][  0]LogAssetRegistry: FAssetRegistry took 0.0293 seconds to start up
+[2018.10.16-23.59.29:755][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.16-23.59.29:950][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.16-23.59.29:954][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.16-23.59.29:954][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.16-23.59.29:954][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.16-23.59.29:954][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.16-23.59.29:984][  0]LogNetVersion: ControliePractice 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2409719994)
+[2018.10.16-23.59.30:785][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.227113 seconds
+[2018.10.16-23.59.30:796][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.16-23.59.30:796][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.16-23.59.30:796][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.16-23.59.50:538][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.16-23.59.50:552][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.16-23.59.50:831][  0]SourceControl: Source control is disabled
+[2018.10.16-23.59.50:831][  0]SourceControl: Source control is disabled
+[2018.10.16-23.59.50:832][  0]SourceControl: Source control is disabled
+[2018.10.16-23.59.50:834][  0]SourceControl: Source control is disabled
+[2018.10.16-23.59.51:201][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.16-23.59.51:361][  0]LogOcInput: OculusInput pre-init called
+[2018.10.16-23.59.54:357][  0]LogEngine: Initializing Engine...
+[2018.10.16-23.59.54:418][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.10.16-23.59.54:421][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.16-23.59.54:421][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.16-23.59.54:421][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.16-23.59.54:421][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.16-23.59.54:679][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.16-23.59.54:694][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.16-23.59.54:748][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.16-23.59.54:771][  0]LogInit: FAudioDevice initialized.
+[2018.10.16-23.59.54:772][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.16-23.59.54:883][  0]LogDerivedDataCache: Saved boot cache 0.11s 73MB C:/Users/Rayray/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.16-23.59.54:898][  0]LogInit: Texture streaming: Enabled
+[2018.10.16-23.59.54:938][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.16-23.59.54:970][  0]LogInit: Transaction tracking system initialized
+[2018.10.16-23.59.54:992][  0]BlueprintLog: New page: Editor Load
+[2018.10.16-23.59.55:157][  0]LocalizationService: Localization service is disabled
+[2018.10.16-23.59.55:242][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.10.16-23.59.55:242][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.10.16-23.59.55:243][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.10.16-23.59.55:248][  0]LogLinker: Warning: Can't find file '/Game/SideScRolePlay/BluePrints/NewBlueprint'
+[2018.10.16-23.59.55:248][  0]LogLinker: Warning: Can't find file '/Game/SideScRolePlay/BluePrints/NewBlueprint'
+[2018.10.16-23.59.55:248][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScRolePlay/BluePrints/NewBlueprint.NewBlueprint_C'
+[2018.10.16-23.59.56:092][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.16-23.59.56:092][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.16-23.59.56:092][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.16-23.59.56:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.16-23.59.56:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.16-23.59.56:093][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.16-23.59.56:093][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.16-23.59.56:821][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Content/' took 0.02s
+[2018.10.16-23.59.59:143][  0]SourceControl: Source control is disabled
+[2018.10.16-23.59.59:143][  0]Cmd: MAP LOAD FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/ControlieLand.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.16-23.59.59:143][  0]LightingResults: New page: Lighting Build
+[2018.10.16-23.59.59:146][  0]MapCheck: New page: Map Check
+[2018.10.16-23.59.59:146][  0]LightingResults: New page: Lighting Build
+[2018.10.17-00.00.01:057][  0]LogAIModule: Creating AISystem for world ControlieLand
+[2018.10.17-00.00.02:248][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Controlie/Levels/Stream1) is flushing async loading
+[2018.10.17-00.00.02:248][  0]LogStreaming: Display: Flushing async loaders.
+[2018.10.17-00.00.02:291][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.17-00.00.02:427][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.17-00.00.02:541][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 114.193ms to complete.
+[2018.10.17-00.00.02:541][  0]LogFileHelpers: Loading map 'ControlieLand' took 3.398
+[2018.10.17-00.00.02:828][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.17-00.00.02:839][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.17-00.00.02:849][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.17-00.00.02:859][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.17-00.00.02:883][  0]LogCollectionManager: Loaded 0 collections in 0.001485 seconds
+[2018.10.17-00.00.02:937][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Saved/Collections/' took 0.01s
+[2018.10.17-00.00.02:937][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Content/Developers/Rayray/Collections/' took 0.01s
+[2018.10.17-00.00.02:937][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Content/Collections/' took 0.01s
+[2018.10.17-00.00.02:937][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.17-00.00.02:954][  0]LogContentBrowser: Native class hierarchy populated in 0.0168 seconds. Added 2628 classes and 631 folders.
+[2018.10.17-00.00.02:963][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.17-00.00.04:254][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.17-00.00.04:260][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.10.17-00.00.04:458][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2018.10.17-00.00.06:993][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.17-00.00.07:093][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ControliePractice
+[2018.10.17-00.00.07:093][  0]LogTemp: CWD: E:\Unreal_Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.17-00.00.07:093][  0]LogTemp: Initial Dir: E:\Unreal_Engine\UE_4.20
+[2018.10.17-00.00.07:093][  0]LogTemp: Env CWD: E:\Unreal_Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.17-00.00.07:093][  0]LogTemp: BranchPath = BLACKWIDOW-PC/E/Unreal_Engine/UE_4.20/Engine/Binaries --- GameBranchPath = BLACKWIDOW-PC/E/Unreal_Engine/UE_4.20/Engine/Binaries
+[2018.10.17-00.00.07:093][  0]LogTemp: MATCHED-Provision:,File:,Cert:
+[2018.10.17-00.00.07:112][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.17-00.00.07:113][  0]LogLoad: (Engine Initialization) Total time: 67.98 seconds
+[2018.10.17-00.00.07:113][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.17-00.00.07:165][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.17-00.00.07:186][  0]LogSlate: Took 0.018389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.17-00.00.07:215][  0]LogRenderer: Reallocating scene render targets to support 64x64 Format 26 NumSamples 1 (Frame:1).
+[2018.10.17-00.00.07:215][  0]LogSlate: Took 0.026188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.17-00.00.07:239][  0]LogSlate: Took 0.014465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.17-00.00.07:489][  0]LogRenderer: Reallocating scene render targets to support 1232x560 Format 26 NumSamples 1 (Frame:1).
+[2018.10.17-00.00.07:490][  0]LogSlate: Took 0.023694 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.17-00.00.07:684][  2]LogAssetRegistry: Asset discovery search completed in 38.4744 seconds
+[2018.10.17-00.00.07:687][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.17-00.00.07:687][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000098 seconds (updated 0 objects)
+[2018.10.17-00.00.08:668][  5]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.17-00.00.12:691][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-00.00.12:746][ 17]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/CameraCharacter/CameraPlayerController.CameraPlayerController
+[2018.10.17-00.00.13:536][ 17]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.10.17-00.00.14:847][ 17]LogLinker: Warning: Can't resolve asset name
+[2018.10.17-00.00.14:865][ 17]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/Blueprints/BP_Trigger.BP_Trigger
+[2018.10.17-00.00.15:368][ 17]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/CameraCharacter/ControlieCharacter.ControlieCharacter
+[2018.10.17-00.00.15:890][ 17]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/Game/ControlieGameState.ControlieGameState
+[2018.10.17-00.00.16:415][ 17]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/Blueprints/NPC.NPC
+[2018.10.17-00.00.16:969][ 17]LogSlate: Took 0.025638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.17-00.00.17:366][ 18]LogSlate: Took 0.018733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.17-00.01.59:793][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-00.01.59:867][123]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.17-00.01.59:918][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand' with GeneratedClass '/Game/Controlie/Levels/ControlieLand.ControlieLand_C' with ClassGeneratedBy '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand'
+[2018.10.17-00.01.59:918][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1' with GeneratedClass '/Game/Controlie/Levels/Stream1.Stream1_C' with ClassGeneratedBy '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1'
+[2018.10.17-00.01.59:918][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.17-00.01.59:931][123]PIE: New page: PIE session: ControlieLand (Oct 16, 2018, 2:01:59 PM)
+[2018.10.17-00.01.59:931][123]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_ControlieLand
+[2018.10.17-00.01.59:990][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058735s)
+[2018.10.17-00.01.59:991][123]LogAIModule: Creating AISystem for world ControlieLand
+[2018.10.17-00.01.59:991][123]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2018.10.17-00.01.59:991][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/ControlieLand.ControlieLand to /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand (0.059808s)
+[2018.10.17-00.02.00:131][123]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.17-00.02.00:148][123]LogInit: FAudioDevice initialized.
+[2018.10.17-00.02.00:194][123]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.10.17-00.02.00:202][123]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand up for play (max tick rate 0) at 2018.10.16-19.02.00
+[2018.10.17-00.02.00:203][123]LogBlueprintUserMessages: [NPC_Bluey] oops
+[2018.10.17-00.02.00:204][123]LogBlueprintUserMessages: [NPC_Greeny] oops
+[2018.10.17-00.02.00:204][123]LogBlueprintUserMessages: [NPC_Pinky] oops
+[2018.10.17-00.02.00:204][123]LogBlueprintUserMessages: [NPC_Yellowy] oops
+[2018.10.17-00.02.00:205][123]LogWorld: Bringing up level for play took: 0.009221
+[2018.10.17-00.02.00:223][123]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.10.17-00.02.00:224][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Controlie/Game/ControlieGameState.ControlieGameState_C'!
+[2018.10.17-00.02.00:224][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Controlie/Game/ControlieGameState.ControlieGameState_C'!
+[2018.10.17-00.02.00:224][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Controlie/Game/ControlieGameState.ControlieGameState_C'!
+[2018.10.17-00.02.00:224][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Controlie/Game/ControlieGameState.ControlieGameState_C'!
+[2018.10.17-00.02.00:224][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Controlie/Game/ControlieGameState.ControlieGameState_C'!
+[2018.10.17-00.02.00:224][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Controlie/Game/ControlieGameState.ControlieGameState_C'!
+[2018.10.17-00.02.00:224][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Controlie/Game/ControlieGameState.ControlieGameState_C'!
+[2018.10.17-00.02.00:224][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Controlie/Game/ControlieGameState.ControlieGameState_C'!
+[2018.10.17-00.02.00:225][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Controlie/Game/ControlieGameState.ControlieGameState_C'!
+[2018.10.17-00.02.00:225][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Controlie/Game/ControlieGameState.ControlieGameState_C'!
+[2018.10.17-00.02.00:225][123]LogLevel: ActivateLevel /Game/Controlie/Levels/UEDPIE_0_Stream1 1 1 0
+[2018.10.17-00.02.00:225][123]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_ControlieLand -0.493
+[2018.10.17-00.02.00:225][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand' with GeneratedClass '/Game/Controlie/Levels/ControlieLand.ControlieLand_C' with ClassGeneratedBy '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand'
+[2018.10.17-00.02.00:225][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1' with GeneratedClass '/Game/Controlie/Levels/Stream1.Stream1_C' with ClassGeneratedBy '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1'
+[2018.10.17-00.02.04:904][371]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Destinations' of length 7 in '/Game/Controlie/Game/ControlieGameState.ControlieGameState_C'!
+[2018.10.17-00.02.04:904][371]LogScript: Warning: Accessed None trying to read property Current_Destination
+	NPC_C /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand:PersistentLevel.NPC_Pinky
+	Function /Game/Controlie/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC:08FD
+[2018.10.17-00.02.04:904][371]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Destination". Blueprint:  NPC Function:  Execute Ubergraph NPC Graph:  EventGraph Node:  AI MoveTo
+[2018.10.17-00.02.04:904][371]LogScript: Warning: Accessed None
+	NPC_C /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand:PersistentLevel.NPC_Pinky
+	Function /Game/Controlie/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC:0912
+[2018.10.17-00.02.04:904][371]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  NPC Function:  Execute Ubergraph NPC Graph:  EventGraph Node:  AI MoveTo
+[2018.10.17-00.02.04:905][371]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Destinations' of length 7 in '/Game/Controlie/Game/ControlieGameState.ControlieGameState_C'!
+[2018.10.17-00.02.04:905][371]LogScript: Warning: Accessed None trying to read property Current_Destination
+	NPC_C /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand:PersistentLevel.NPC_Greeny
+	Function /Game/Controlie/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC:08FD
+[2018.10.17-00.02.04:905][371]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Destination". Blueprint:  NPC Function:  Execute Ubergraph NPC Graph:  EventGraph Node:  AI MoveTo
+[2018.10.17-00.02.04:905][371]LogScript: Warning: Accessed None
+	NPC_C /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand:PersistentLevel.NPC_Greeny
+	Function /Game/Controlie/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC:0912
+[2018.10.17-00.02.04:905][371]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  NPC Function:  Execute Ubergraph NPC Graph:  EventGraph Node:  AI MoveTo
+[2018.10.17-00.02.04:905][371]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Destinations' of length 7 in '/Game/Controlie/Game/ControlieGameState.ControlieGameState_C'!
+[2018.10.17-00.02.04:905][371]LogScript: Warning: Accessed None trying to read property Current_Destination
+	NPC_C /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand:PersistentLevel.NPC2_5
+	Function /Game/Controlie/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC:08FD
+[2018.10.17-00.02.04:905][371]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Destination". Blueprint:  NPC Function:  Execute Ubergraph NPC Graph:  EventGraph Node:  AI MoveTo
+[2018.10.17-00.02.04:905][371]LogScript: Warning: Accessed None
+	NPC_C /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand:PersistentLevel.NPC2_5
+	Function /Game/Controlie/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC:0912
+[2018.10.17-00.02.04:905][371]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  NPC Function:  Execute Ubergraph NPC Graph:  EventGraph Node:  AI MoveTo
+[2018.10.17-00.02.05:020][377]LogBlueprintUserMessages: [NPC4_11] gotopls fail
+[2018.10.17-00.02.05:020][377]LogBlueprintUserMessages: [NPC3_8] gotopls fail
+[2018.10.17-00.02.11:399][711]LogBlueprintUserMessages: [NPC_Greeny] gotopls fail
+[2018.10.17-00.02.15:017][903]LogBlueprintUserMessages: [NPC_Pinky] gotopls fail
+[2018.10.17-00.02.18:847][106]LogScript: Warning: Accessed None trying to read property Current_Destination
+	NPC_C /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand:PersistentLevel.NPC_Greeny
+	Function /Game/Controlie/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC:008F
+[2018.10.17-00.02.18:847][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Destination". Blueprint:  NPC Function:  Execute Ubergraph NPC Graph:  EventGraph Node:  AI MoveTo
+[2018.10.17-00.02.18:847][106]LogScript: Warning: Accessed None
+	NPC_C /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand:PersistentLevel.NPC_Greeny
+	Function /Game/Controlie/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC:00A4
+[2018.10.17-00.02.18:847][106]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  NPC Function:  Execute Ubergraph NPC Graph:  EventGraph Node:  AI MoveTo
+[2018.10.17-00.02.18:962][112]LogBlueprintUserMessages: [NPC3_8] talk fail
+[2018.10.17-00.02.22:045][274]LogBlueprintUserMessages: [NPC6_17] oops
+[2018.10.17-00.02.28:104][595]LogBlueprintUserMessages: [NPC6_17] oops
+[2018.10.17-00.02.29:889][691]LogBlueprintUserMessages: [NPC_2] oops
+[2018.10.17-00.02.34:499][938]LogBlueprintUserMessages: [NPC_Yellowy] oops
+[2018.10.17-00.02.35:273][979]LogBlueprintUserMessages: [NPC2_5] gotopls fail
+[2018.10.17-00.02.41:184][293]LogBlueprintUserMessages: [NPC_Bluey] oops
+[2018.10.17-00.02.41:408][305]LogScript: Warning: Accessed None trying to read property Current_Destination
+	NPC_C /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand:PersistentLevel.NPC2_5
+	Function /Game/Controlie/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC:008F
+[2018.10.17-00.02.41:408][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Destination". Blueprint:  NPC Function:  Execute Ubergraph NPC Graph:  EventGraph Node:  AI MoveTo
+[2018.10.17-00.02.41:408][305]LogScript: Warning: Accessed None
+	NPC_C /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand:PersistentLevel.NPC2_5
+	Function /Game/Controlie/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC:00A4
+[2018.10.17-00.02.41:409][305]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  NPC Function:  Execute Ubergraph NPC Graph:  EventGraph Node:  AI MoveTo
+[2018.10.17-00.02.41:521][311]LogBlueprintUserMessages: [NPC_Pinky] talk fail
+[2018.10.17-00.02.44:521][470]LogBlueprintUserMessages: [NPC_Yellowy] oops
+[2018.10.17-00.02.44:911][491]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Destinations' of length 7 in '/Game/Controlie/Game/ControlieGameState.ControlieGameState_C'!
+[2018.10.17-00.02.44:911][491]LogScript: Warning: Accessed None trying to read property Current_Destination
+	NPC_C /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand:PersistentLevel.NPC_Pinky
+	Function /Game/Controlie/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC:08FD
+[2018.10.17-00.02.44:911][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Destination". Blueprint:  NPC Function:  Execute Ubergraph NPC Graph:  EventGraph Node:  AI MoveTo
+[2018.10.17-00.02.44:911][491]LogScript: Warning: Accessed None
+	NPC_C /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand:PersistentLevel.NPC_Pinky
+	Function /Game/Controlie/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC:0912
+[2018.10.17-00.02.44:911][491]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  NPC Function:  Execute Ubergraph NPC Graph:  EventGraph Node:  AI MoveTo
+[2018.10.17-00.02.45:984][548]LogBlueprintUserMessages: [NPC2_5] talk fail
+[2018.10.17-00.02.48:192][666]LogBlueprintUserMessages: [NPC5_14] oops
+[2018.10.17-00.02.50:028][765]LogBlueprintUserMessages: [NPC_Pinky] gotopls fail
+[2018.10.17-00.02.56:442][108]LogBlueprintUserMessages: [NPC_Greeny] talk fail
+[2018.10.17-00.03.11:977][938]LogBlueprintUserMessages: [NPC6_17] oops
+[2018.10.17-00.03.16:517][182]LogBlueprintUserMessages: [NPC6_17] oops
+[2018.10.17-00.03.18:615][295]LogBlueprintUserMessages: [NPC_2] oops
+[2018.10.17-00.03.21:414][446]LogBlueprintUserMessages: [NPC_Bluey] oops
+[2018.10.17-00.03.21:564][454]LogBlueprintUserMessages: [NPC3_8] gotopls fail
+[2018.10.17-00.03.21:786][466]LogBlueprintUserMessages: [NPC5_14] gotopls fail
+[2018.10.17-00.03.22:697][515]LogBlueprintUserMessages: [NPC6_17] oops
+[2018.10.17-00.03.25:016][640]LogBlueprintUserMessages: [NPC_2] gotopls fail
+[2018.10.17-00.03.26:828][738]LogBlueprintUserMessages: [NPC_Yellowy] oops
+[2018.10.17-00.03.27:708][785]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNPC
+	NPC_C /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand:PersistentLevel.NPC_Yellowy
+	Function /Game/Controlie/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC:01F1
+[2018.10.17-00.03.27:708][785]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsNPC". Blueprint:  NPC Function:  Execute Ubergraph NPC Graph:  EventGraph Node:  Deactivate
+[2018.10.17-00.03.27:708][785]LogScript: Warning: Accessed None
+	NPC_C /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand:PersistentLevel.NPC_Yellowy
+	Function /Game/Controlie/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC:0206
+[2018.10.17-00.03.27:708][785]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  NPC Function:  Execute Ubergraph NPC Graph:  EventGraph Node:  Deactivate
+[2018.10.17-00.03.27:709][785]LogBlueprintUserMessages: [NPC_Yellowy] gotopls fail
+[2018.10.17-00.03.27:709][785]LogBlueprintUserMessages: [NPC6_17] gotopls fail
+[2018.10.17-00.03.32:085][ 21]LogBlueprintUserMessages: [NPC_Bluey] oops
+[2018.10.17-00.03.37:044][288]LogBlueprintUserMessages: [NPC_Greeny] gotopls fail
+[2018.10.17-00.03.42:749][596]LogBlueprintUserMessages: [NPC_Bluey] oops
+[2018.10.17-00.03.43:560][640]LogBlueprintUserMessages: [NPC_Yellowy] move to each other fail
+[2018.10.17-00.04.16:745][432]LogBlueprintUserMessages: [NPC2_5] gotopls fail
+[2018.10.17-00.04.19:407][576]LogBlueprintUserMessages: [NPC_Bluey] oops
+[2018.10.17-00.04.23:934][820]LogBlueprintUserMessages: [NPC_Bluey] oops
+[2018.10.17-00.04.24:613][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand' with GeneratedClass '/Game/Controlie/Levels/ControlieLand.ControlieLand_C' with ClassGeneratedBy '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand'
+[2018.10.17-00.04.24:613][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1' with GeneratedClass '/Game/Controlie/Levels/Stream1.Stream1_C' with ClassGeneratedBy '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1'
+[2018.10.17-00.04.24:614][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.17-00.04.24:670][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.17-00.04.24:670][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand' with GeneratedClass '/Game/Controlie/Levels/ControlieLand.ControlieLand_C' with ClassGeneratedBy '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand'
+[2018.10.17-00.04.24:670][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1' with GeneratedClass '/Game/Controlie/Levels/Stream1.Stream1_C' with ClassGeneratedBy '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1'
+[2018.10.17-00.04.24:799][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.17-00.04.25:126][858]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.10.17-00.04.28:421][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-01.53.42:146][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-03.33.35:609][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.10.17-03.33.37:405][310]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.17-03.39.19:622][821]LogAssetEditorManager: Opening Asset editor for World /Game/Controlie/Levels/Coast.Coast
+[2018.10.17-03.39.21:797][821]LogSlate: Window 'Save Content' being destroyed
+[2018.10.17-03.39.22:796][821]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/Coast6537C2F345029483F26B0A87B893B3E7.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Coast.umap'
+[2018.10.17-03.39.22:810][821]LogFileHelpers: Saving map 'Coast' took 1.002
+[2018.10.17-03.39.22:818][821]Cmd: MAP LOAD FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Coast.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.17-03.39.22:818][821]LightingResults: New page: Lighting Build
+[2018.10.17-03.39.22:819][821]LoadErrors: New page: Loading map: Coast.umap
+[2018.10.17-03.39.22:832][821]MapCheck: New page: Map Check
+[2018.10.17-03.39.22:832][821]LightingResults: New page: Lighting Build
+[2018.10.17-03.39.23:162][821]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.17-03.39.23:162][821]LogAIModule: Creating AISystem for world Coast
+[2018.10.17-03.39.23:398][821]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.17-03.39.23:526][821]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 127.338ms to complete.
+[2018.10.17-03.39.23:532][821]LogFileHelpers: Loading map 'Coast' took 0.719
+[2018.10.17-03.39.37:326][530]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.10.17-03.40.24:239][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-03.40.43:925][909]LogMaterial: Display: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2018.10.17-03.40.44:070][910]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.17-03.40.44:070][910]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.17-03.40.44:070][910]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.17-03.40.44:070][910]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.17-03.40.54:620][384]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.10.17-03.40.54:639][384]LogMaterial: Display: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2018.10.17-03.40.54:690][384]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.17-03.40.54:690][384]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.17-03.40.54:690][384]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.17-03.40.54:690][384]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.17-03.40.57:924][501]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.17-03.40.57:983][503]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.17-03.41.07:539][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-03.41.19:824][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-03.41.30:160][970]Cmd: TRANSACTION UNDO
+[2018.10.17-03.41.30:160][970]LogEditorTransaction: Undo Create Actors
+[2018.10.17-03.41.32:211][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-03.41.55:705][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-03.42.06:024][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-03.42.43:118][367]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.398 s
+[2018.10.17-03.42.43:118][367]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.17-03.42.43:118][367]LogOutputDevice: Error: 
+[2018.10.17-03.42.43:118][367]LogOutputDevice: Error: Ensure condition failed: bIsOwnerSelected [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EditorSelectUtils.cpp] [Line: 319]
+[2018.10.17-03.42.43:118][367]LogOutputDevice: Error: Owner(BP_Sky_Sphere_C /Game/Controlie/Levels/Coast.Coast:PersistentLevel.BP_Sky_Sphere_2) of StaticMeshComponent /Game/Controlie/Levels/Coast.Coast:PersistentLevel.BP_Sky_Sphere_2.Sky Sphere mesh is not selected
+[2018.10.17-03.42.43:118][367]LogOutputDevice: Error: Stack: 
+[2018.10.17-03.42.43:118][367]LogOutputDevice: Error: [Callstack] 0x00007fff98e071f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.17-03.42.43:118][367]LogOutputDevice: Error: [Callstack] 0x00007fff98b40c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.17-03.42.43:118][367]LogOutputDevice: Error: [Callstack] 0x00007fff98b5b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.17-03.42.43:118][367]LogOutputDevice: Error: [Callstack] 0x00007fff9478cfaa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.17-03.42.43:118][367]LogOutputDevice: Error: [Callstack] 0x00007fff7eefd695 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2018.10.17-03.42.43:118][367]LogOutputDevice: Error: [Callstack] 0x00007fff7eeaedb9 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2018.10.17-03.42.43:118][367]LogOutputDevice: Error: [Callstack] 0x00007fff87834833 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.17-03.42.43:118][367]LogOutputDevice: Error: [Callstack] 0x00007fff8781b550 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fff877cb524 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fff87820f0a UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fff87816cb9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fff978394c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fff978d1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fff978b7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fff978ab25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fffb752d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fffb7520270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fffb752f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fffb751c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fffd1d06cc1 USER32.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fffd1d06693 USER32.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fffb7530646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007ff7e14a54e5 UE4Editor.exe!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007ff7e14b5b3c UE4Editor.exe!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007ff7e14b5bba UE4Editor.exe!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007ff7e14c3dac UE4Editor.exe!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007ff7e14c5aaa UE4Editor.exe!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fffd2d13034 KERNEL32.DLL!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: [Callstack] 0x00007fffd2ef1461 ntdll.dll!UnknownFunction []
+[2018.10.17-03.42.43:119][367]LogOutputDevice: Error: 
+[2018.10.17-03.42.43:123][367]LogStats:                SubmitErrorReport -  0.000 s
