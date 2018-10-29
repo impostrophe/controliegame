@@ -4,6 +4,17 @@
 	"Category": "",
 	"Description": "",
 	"Enterprise": true,
+	"Modules": [
+		{
+			"Name": "ControliePractice",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule"
+			]
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"

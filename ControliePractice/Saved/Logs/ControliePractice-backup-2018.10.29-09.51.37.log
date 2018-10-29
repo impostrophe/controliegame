@@ -1,0 +1,1145 @@
+﻿Log file open, 10/28/18 01:00:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ControliePractice
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.320361
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin DatasmithMDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogStreaming: Display: Took  0.184s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD FX(tm)-8350 Eight-Core Processor           , GPU: AMD Radeon R9 200 Series
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: E:/Unreal_Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.28-06.00.13:317][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.28-06.00.13:317][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.28-06.00.13:336][  0]LogHAL: Display: Platform has ~ 16 GB [17075896320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.28-06.00.13:336][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.28-06.00.13:336][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.28-06.00.13:336][  0]LogInit: Computer: BLACKWIDOW-PC
+[2018.10.28-06.00.13:336][  0]LogInit: User: Rayray
+[2018.10.28-06.00.13:336][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.28-06.00.13:336][  0]LogInit: High frequency timer resolution =3.919296 MHz
+[2018.10.28-06.00.13:337][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.28-06.00.13:337][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.28-06.00.13:337][  0]LogMemory: Process Physical Memory: 103.67 MB used, 103.67 MB peak
+[2018.10.28-06.00.13:337][  0]LogMemory: Process Virtual Memory: 90.27 MB used, 90.27 MB peak
+[2018.10.28-06.00.13:337][  0]LogMemory: Physical Memory: 6328.95 MB used,  9955.89 MB free, 16284.84 MB total
+[2018.10.28-06.00.13:337][  0]LogMemory: Virtual Memory: 4651.27 MB used,  9955.89 MB free, 134217728.00 MB total
+[2018.10.28-06.00.13:360][  0]LogInit: Using OS detected language (en-US).
+[2018.10.28-06.00.13:360][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.28-06.00.13:362][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.28-06.00.13:824][  0]LogStreaming: Display: Took  0.463s to InitEngineTextLocalization.
+[2018.10.28-06.00.13:824][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.28-06.00.13:870][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.28-06.00.13:870][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.28-06.00.21:257][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.10.28-06.00.21:257][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.28-06.00.21:287][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2018.10.28-06.00.21:287][  0]LogD3D11RHI:       4072/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.10.28-06.00.21:291][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.28-06.00.21:291][  0]LogD3D11RHI:       0/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.28-06.00.21:291][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.28-06.00.21:303][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.28-06.00.21:303][  0]LogD3D11RHI:     GPU DeviceId: 0x67b0 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.28-06.00.21:303][  0]LogWindows: EnumDisplayDevices:
+[2018.10.28-06.00.21:303][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2018.10.28-06.00.21:303][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2018.10.28-06.00.21:304][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.28-06.00.21:304][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.28-06.00.21:305][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.28-06.00.21:305][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.28-06.00.21:305][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2018.10.28-06.00.21:305][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2018.10.28-06.00.21:305][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:22.19.677.257, unified:22.19.677.257)
+[2018.10.28-06.00.21:305][  0]LogD3D11RHI:      Driver Date: 9-22-2017
+[2018.10.28-06.00.21:305][  0]LogRHI: Texture pool is 2850 MB (70% of 4072 MB)
+[2018.10.28-06.00.21:350][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.28-06.00.21:363][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.10.28-06.00.21:365][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../controliegit/controliegame/ControliePractice/Intermediate/Shaders/WorkingDirectory/13684/).
+[2018.10.28-06.00.21:365][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rayray/AppData/Local/Temp/UnrealShaderWorkingDir/5DF7304F4F829010FE3216B2709F39A3/'.
+[2018.10.28-06.00.21:724][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.28-06.00.21:744][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.28-06.00.21:766][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.28-06.00.21:787][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.28-06.00.21:810][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.28-06.00.21:831][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.28-06.00.21:852][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.28-06.00.21:880][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.28-06.00.21:890][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.28-06.00.22:040][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:040][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:040][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:040][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:040][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:040][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:040][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:040][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:040][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:041][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:041][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:041][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:041][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:041][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:041][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:041][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:041][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:041][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-06.00.22:042][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.28-06.00.22:119][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.28-06.00.22:119][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.28-06.00.22:159][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.28-06.00.22:159][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.28-06.00.22:180][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.28-06.00.22:200][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.28-06.00.22:221][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.28-06.00.22:242][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.28-06.00.22:260][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.28-06.00.22:260][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.28-06.00.22:326][  0]LogXGEController: Cleaning working directory: C:/Users/Rayray/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.28-06.00.22:326][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.28-06.00.22:327][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.28-06.00.22:327][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.28-06.00.23:411][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.28-06.00.23:497][  0]LogDerivedDataCache: Loaded boot cache 0.09s 73MB C:/Users/Rayray/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.28-06.00.23:497][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Rayray/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.28-06.00.23:497][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../controliegit/controliegame/ControliePractice/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.28-06.00.23:497][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.28-06.00.23:497][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../controliegit/controliegame/ControliePractice/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.28-06.00.23:497][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.28-06.00.23:512][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.28-06.00.23:525][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rayray/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.28-06.00.23:525][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.28-06.00.23:525][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.28-06.00.23:552][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.28-06.00.23:553][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.28-06.00.23:554][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.28-06.00.23:651][  0]LogAssetRegistry: FAssetRegistry took 0.0291 seconds to start up
+[2018.10.28-06.00.24:173][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.28-06.00.24:338][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.28-06.00.24:342][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.28-06.00.24:342][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.28-06.00.24:342][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.28-06.00.24:342][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.28-06.00.24:370][  0]LogNetVersion: ControliePractice 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2409719994)
+[2018.10.28-06.00.25:068][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.191389 seconds
+[2018.10.28-06.00.25:077][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.28-06.00.25:077][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.28-06.00.25:077][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.28-06.00.26:224][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.28-06.00.26:238][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.28-06.00.26:423][  0]SourceControl: Source control is disabled
+[2018.10.28-06.00.26:423][  0]SourceControl: Source control is disabled
+[2018.10.28-06.00.26:424][  0]SourceControl: Source control is disabled
+[2018.10.28-06.00.26:426][  0]SourceControl: Source control is disabled
+[2018.10.28-06.00.26:620][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.28-06.00.26:768][  0]LogOcInput: OculusInput pre-init called
+[2018.10.28-06.00.29:527][  0]LogEngine: Initializing Engine...
+[2018.10.28-06.00.29:579][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.10.28-06.00.29:582][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.28-06.00.29:582][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.28-06.00.29:582][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.28-06.00.29:582][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.28-06.00.29:842][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.28-06.00.29:856][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.28-06.00.29:900][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.28-06.00.29:952][  0]LogInit: FAudioDevice initialized.
+[2018.10.28-06.00.29:952][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.28-06.00.30:063][  0]LogDerivedDataCache: Saved boot cache 0.11s 73MB C:/Users/Rayray/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.28-06.00.30:078][  0]LogInit: Texture streaming: Enabled
+[2018.10.28-06.00.30:096][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.28-06.00.30:112][  0]LogInit: Transaction tracking system initialized
+[2018.10.28-06.00.30:136][  0]BlueprintLog: New page: Editor Load
+[2018.10.28-06.00.30:214][  0]LocalizationService: Localization service is disabled
+[2018.10.28-06.00.30:290][  0]LogLinker: Warning: Can't find file '/Game/SideScRolePlay/BluePrints/NewBlueprint'
+[2018.10.28-06.00.30:290][  0]LogLinker: Warning: Can't find file '/Game/SideScRolePlay/BluePrints/NewBlueprint'
+[2018.10.28-06.00.30:290][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScRolePlay/BluePrints/NewBlueprint.NewBlueprint_C'
+[2018.10.28-06.00.30:548][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.28-06.00.30:548][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.28-06.00.30:548][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.28-06.00.30:548][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.28-06.00.30:548][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.28-06.00.30:549][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.28-06.00.30:549][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.28-06.00.30:702][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Content/' took 0.03s
+[2018.10.28-06.00.32:483][  0]SourceControl: Source control is disabled
+[2018.10.28-06.00.32:483][  0]Cmd: MAP LOAD FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/ControlieLand.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.28-06.00.32:484][  0]LightingResults: New page: Lighting Build
+[2018.10.28-06.00.32:488][  0]MapCheck: New page: Map Check
+[2018.10.28-06.00.32:488][  0]LightingResults: New page: Lighting Build
+[2018.10.28-06.00.33:525][  0]LogBlueprint: Warning: [Compiler ControlieCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.10.28-06.00.33:533][  0]LogBlueprint: Warning: [Compiler ControlieCharacter] [0023.21] Compile of ControlieCharacter successful, but with 1 Warning(s) [in 21 ms] (/Game/Controlie/CameraCharacter/ControlieCharacter.ControlieCharacter)
+[2018.10.28-06.00.34:693][  0]LogAIModule: Creating AISystem for world ControlieLand
+[2018.10.28-06.00.34:748][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Controlie/Levels/Stream1) is flushing async loading
+[2018.10.28-06.00.34:748][  0]LogStreaming: Display: Flushing async loaders.
+[2018.10.28-06.00.34:774][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.28-06.00.34:923][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.28-06.00.35:065][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 141.814ms to complete.
+[2018.10.28-06.00.35:065][  0]LogFileHelpers: Loading map 'ControlieLand' took 2.582
+[2018.10.28-06.00.35:195][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-06.00.35:205][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-06.00.35:215][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-06.00.35:226][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-06.00.35:234][  0]LogCollectionManager: Loaded 0 collections in 0.001596 seconds
+[2018.10.28-06.00.35:286][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Saved/Collections/' took 0.01s
+[2018.10.28-06.00.35:286][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Content/Developers/Rayray/Collections/' took 0.01s
+[2018.10.28-06.00.35:286][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Content/Collections/' took 0.01s
+[2018.10.28-06.00.35:286][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.28-06.00.35:304][  0]LogContentBrowser: Native class hierarchy populated in 0.0176 seconds. Added 2629 classes and 633 folders.
+[2018.10.28-06.00.35:313][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.28-06.00.35:400][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.28-06.00.35:408][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.10.28-06.00.35:587][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.10.28-06.00.35:587][  0]LogLoad: (Engine Initialization) Total time: 25.27 seconds
+[2018.10.28-06.00.35:587][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.28-06.00.35:598][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.28-06.00.35:626][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.28-06.00.35:629][  0]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.28-06.00.35:631][  0]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.28-06.00.35:639][  0]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.28-06.00.35:815][  1]LogRenderer: Reallocating scene render targets to support 1184x536 Format 26 NumSamples 1 (Frame:1).
+[2018.10.28-06.00.35:883][  2]LogAssetRegistry: Asset discovery search completed in 12.2548 seconds
+[2018.10.28-06.00.35:886][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.28-06.00.35:886][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2018.10.28-06.00.42:805][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-06.00.45:533][866]Candidate modules for hot reload:
+[2018.10.28-06.00.45:533][866]  ControliePractice
+[2018.10.28-06.00.45:533][866]Launching UnrealBuildTool... [E:/Unreal_Engine/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ControliePractice,9475 Win64 Development -TargetType=Editor -Project="../../../../../controliegit/controliegame/ControliePractice/ControliePractice.uproject" -canskiplink "E:/controliegit/controliegame/ControliePractice/ControliePractice.uproject" ]
+[2018.10.28-06.00.45:536][866]Warning: Starting HotReload took  0.0s.
+[2018.10.28-06.00.52:877][724]CompilerResultsLog: New page: Compilation - Oct 27, 2018, 8:00:52 PM
+[2018.10.28-06.00.52:877][724]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.10.28-06.00.52:877][724]CompilerResultsLog: Creating makefile for hot reloading ControliePracticeEditor (no existing makefile)
+[2018.10.28-06.00.52:877][724]CompilerResultsLog: Compiling game modules for hot reload
+[2018.10.28-06.00.52:877][724]CompilerResultsLog: Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2018.10.28-06.00.52:877][724]CompilerResultsLog: E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\DatasmithMDLImporter\DatasmithMDLImporter.Build.cs: warning: Referenced directory 'E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\ThirdParty\NotForLicensees\AxF-Decoding-SDK-1.5.1\include' does not exist.
+[2018.10.28-06.00.52:877][724]CompilerResultsLog: E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\DatasmithMDLImporter\DatasmithMDLImporter.Build.cs: warning: Referenced directory 'E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\ThirdParty\NotForLicensees\mdl-sdk-302800.547\include' does not exist.
+[2018.10.28-06.00.52:878][724]CompilerResultsLog: Target is up to date
+[2018.10.28-06.00.52:878][724]CompilerResultsLog: Total build time: 7.04 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.10.28-06.00.52:878][724]LogMainFrame: MainFrame: Module compiling took 7.357 seconds
+[2018.10.28-06.00.53:013][724]LogContentBrowser: Native class hierarchy populated in 0.0192 seconds. Added 2630 classes and 635 folders.
+[2018.10.28-06.00.53:020][724]Display: HotReload took  7.5s.
+[2018.10.28-06.00.57:423][249]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.28-06.02.15:998][435]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.28-06.02.16:008][435]LogAssetEditorManager: Opening Asset editor for Class /Script/ControliePractice.MyActorStatItem
+[2018.10.28-06.02.16:182][435]LogVSAccessor: Warning: Couldn't goto line number '1' in 'E:/controliegit/controliegame/ControliePractice/Source/ControliePractice/MyActorStatItem.cpp'
+[2018.10.28-13.37.17:566][571]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/AIS/BaseClasses/GoodFoodClass.GoodFoodClass
+[2018.10.28-13.37.18:304][571]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.10.28-13.37.19:537][571]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.28-13.37.19:653][572]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.28-13.37.34:706][218]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Controlie/AIS/BaseClasses/GoodFoodClass.GoodFoodClass from Actor to MyActorStatItem...
+[2018.10.28-13.37.34:715][218]LogK2Compiler: Warning: ValidateVariableNames name StatRestore (used in /Game/Controlie/AIS/BaseClasses/GoodFoodClass.GoodFoodClass) is already taken by /Script/ControliePractice.MyActorStatItem:StatRestore
+[2018.10.28-13.37.34:716][218]LogK2Compiler: Warning: ValidateVariableNames name PrimaryStatIndex (used in /Game/Controlie/AIS/BaseClasses/GoodFoodClass.GoodFoodClass) is already taken by /Script/ControliePractice.MyActorStatItem:PrimaryStatIndex
+[2018.10.28-13.37.34:736][218]BlueprintLog: New page: Compile GoodFoodClass
+[2018.10.28-13.37.35:115][218]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.28-13.37.35:230][218]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/GoodFoodClass436C5A4446EFE7B4AE8BE38002EC21A1.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/BaseClasses/GoodFoodClass.uasset'
+[2018.10.28-13.37.35:322][218]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/PlantFoodItemA5C05F5E477DC804039A509598CC68AD.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/BaseClasses/PlantFoodItem.uasset'
+[2018.10.28-13.38.07:873][557]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Controlie/Levels/ControlieLand' took 0.103
+[2018.10.28-13.38.07:876][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Controlie/AIS/EQSGens/ItemsOfStat] ([1] browsable assets)...
+[2018.10.28-13.38.07:876][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Controlie/AIS/EQSGens/ItemsOfStat]
+[2018.10.28-13.38.07:963][557]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/ItemsOfStat_Auto181D12D1B465D6F5772741CBAF0C689E8.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Saved/Autosaves/Game/Controlie/AIS/EQSGens/ItemsOfStat_Auto1.uasset'
+[2018.10.28-13.38.07:966][557]LogFileHelpers: Auto-saving content packages took 0.091
+[2018.10.28-13.43.10:838][188]LogTemp: Repeating last play command: Simulate
+[2018.10.28-13.43.10:919][188]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand' with GeneratedClass '/Game/Controlie/Levels/ControlieLand.ControlieLand_C' with ClassGeneratedBy '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand'
+[2018.10.28-13.43.10:920][188]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1' with GeneratedClass '/Game/Controlie/Levels/Stream1.Stream1_C' with ClassGeneratedBy '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1'
+[2018.10.28-13.43.10:920][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-13.43.10:933][188]PIE: New page: SIE session: ControlieLand (Oct 28, 2018, 3:43:10 AM)
+[2018.10.28-13.43.10:933][188]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_ControlieLand
+[2018.10.28-13.43.11:005][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072124s)
+[2018.10.28-13.43.11:007][188]LogAIModule: Creating AISystem for world ControlieLand
+[2018.10.28-13.43.11:008][188]LogPlayLevel: PIE: World Init took: (0.002197s)
+[2018.10.28-13.43.11:008][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/ControlieLand.ControlieLand to /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand (0.074777s)
+[2018.10.28-13.43.11:170][188]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.28-13.43.11:196][188]LogInit: FAudioDevice initialized.
+[2018.10.28-13.43.11:243][188]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.10.28-13.43.11:254][188]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_ControlieLand.ControlieLand up for play (max tick rate 0) at 2018.10.28-08.43.11
+[2018.10.28-13.43.11:257][188]LogWorld: Bringing up level for play took: 0.011306
+[2018.10.28-13.43.11:295][188]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2018.10.28-13.43.11:296][188]LogLevel: Warning: Failed to find streaming level object associated with 'SC1_1'
+[2018.10.28-13.43.11:299][188]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_ControlieLand 0.396
+[2018.10.28-13.43.11:309][188]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand' with GeneratedClass '/Game/Controlie/Levels/ControlieLand.ControlieLand_C' with ClassGeneratedBy '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand'
+[2018.10.28-13.43.11:309][188]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1' with GeneratedClass '/Game/Controlie/Levels/Stream1.Stream1_C' with ClassGeneratedBy '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1'
+[2018.10.28-13.43.13:547][329]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand' with GeneratedClass '/Game/Controlie/Levels/ControlieLand.ControlieLand_C' with ClassGeneratedBy '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand'
+[2018.10.28-13.43.13:548][329]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1' with GeneratedClass '/Game/Controlie/Levels/Stream1.Stream1_C' with ClassGeneratedBy '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1'
+[2018.10.28-13.43.13:548][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-13.43.13:595][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.28-13.43.13:595][329]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand' with GeneratedClass '/Game/Controlie/Levels/ControlieLand.ControlieLand_C' with ClassGeneratedBy '/Game/Controlie/Levels/ControlieLand.ControlieLand:PersistentLevel.ControlieLand'
+[2018.10.28-13.43.13:595][329]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1' with GeneratedClass '/Game/Controlie/Levels/Stream1.Stream1_C' with ClassGeneratedBy '/Game/Controlie/Levels/Stream1.Stream1:PersistentLevel.Stream1'
+[2018.10.28-13.43.13:710][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-13.43.13:747][330]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.10.28-13.43.21:134][977]LogAIModule: Creating AISystem for world AISLevel
+[2018.10.28-13.43.21:145][977]LogAssetEditorManager: Opening Asset editor for World /Game/Controlie/Levels/AISLevel.AISLevel
+[2018.10.28-13.43.22:575][977]LogSlate: Window 'Save Content' being destroyed
+[2018.10.28-13.43.22:584][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/EQSGens/ItemsOfStat" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/EQSGens/ItemsOfStat.uasset" SILENT=true
+[2018.10.28-13.43.22:695][977]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/ItemsOfStat8A54FDA748C8C23FC4557584F751BE86.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/EQSGens/ItemsOfStat.uasset'
+[2018.10.28-13.43.22:702][977]Cmd: MAP LOAD FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.28-13.43.22:702][977]LightingResults: New page: Lighting Build
+[2018.10.28-13.43.22:703][977]LoadErrors: New page: Loading map: AISLevel.umap
+[2018.10.28-13.43.22:705][977]MapCheck: New page: Map Check
+[2018.10.28-13.43.22:705][977]LightingResults: New page: Lighting Build
+[2018.10.28-13.43.23:012][977]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.28-13.43.23:233][977]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.28-13.43.23:413][977]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 179.304ms to complete.
+[2018.10.28-13.43.23:415][977]LogFileHelpers: Loading map 'AISLevel' took 0.714
+[2018.10.28-13.43.33:311][612]LogTemp: Repeating last play command: Simulate
+[2018.10.28-13.43.33:381][612]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-13.43.33:381][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-13.43.33:382][612]PIE: New page: SIE session: AISLevel (Oct 28, 2018, 3:43:33 AM)
+[2018.10.28-13.43.33:382][612]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_AISLevel
+[2018.10.28-13.43.33:390][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008592s)
+[2018.10.28-13.43.33:391][612]LogAIModule: Creating AISystem for world AISLevel
+[2018.10.28-13.43.33:391][612]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2018.10.28-13.43.33:392][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/AISLevel.AISLevel to /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel (0.009800s)
+[2018.10.28-13.43.33:567][612]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.28-13.43.33:587][612]LogInit: FAudioDevice initialized.
+[2018.10.28-13.43.33:620][612]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.10.28-13.43.33:623][612]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel up for play (max tick rate 0) at 2018.10.28-08.43.33
+[2018.10.28-13.43.33:624][612]LogWorld: Bringing up level for play took: 0.002754
+[2018.10.28-13.43.33:640][612]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_AISLevel 0.737
+[2018.10.28-13.43.33:643][612]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-13.43.33:727][616]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.28-13.43.35:019][701]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.28-13.43.36:258][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-13.43.36:315][798]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-13.43.36:316][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-13.43.36:350][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.28-13.43.36:350][798]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-13.43.36:467][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-13.43.36:496][799]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.10.28-16.14.50:664][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-16.14.52:087][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-16.14.53:612][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-16.14.53:669][940]LogTemp: Repeating last play command: Simulate
+[2018.10.28-16.14.53:720][940]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.14.53:720][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-16.14.53:720][940]PIE: New page: SIE session: AISLevel (Oct 28, 2018, 6:14:53 AM)
+[2018.10.28-16.14.53:721][940]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_AISLevel
+[2018.10.28-16.14.53:729][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008118s)
+[2018.10.28-16.14.53:730][940]LogAIModule: Creating AISystem for world AISLevel
+[2018.10.28-16.14.53:730][940]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2018.10.28-16.14.53:730][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/AISLevel.AISLevel to /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel (0.009239s)
+[2018.10.28-16.14.53:887][940]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.28-16.14.53:903][940]LogInit: FAudioDevice initialized.
+[2018.10.28-16.14.53:936][940]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.10.28-16.14.53:941][940]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel up for play (max tick rate 0) at 2018.10.28-11.14.53
+[2018.10.28-16.14.53:943][940]LogWorld: Bringing up level for play took: 0.005816
+[2018.10.28-16.14.53:959][940]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_AISLevel 1.056
+[2018.10.28-16.14.54:016][940]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.15.01:993][464]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.01:993][464]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.03:481][602]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	Task_Use_Item_C /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel:PersistentLevel.AIS_AICon_C_0.BTComponent.Task_Use_Item_C_0
+	Function /Game/Controlie/AIS/Tasks/Task_Use_Item.Task_Use_Item_C:ExecuteUbergraph_Task_Use_Item:0082
+[2018.10.28-16.15.03:481][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  Task_Use_Item Function:  Execute Ubergraph Task Use Item Graph:  EventGraph Node:  LineTraceByChannel
+[2018.10.28-16.15.04:961][726]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_2.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.04:961][726]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_2.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.05:494][775]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	Task_Use_Item_C /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel:PersistentLevel.AIS_AICon_C_1.BTComponent.Task_Use_Item_C_0
+	Function /Game/Controlie/AIS/Tasks/Task_Use_Item.Task_Use_Item_C:ExecuteUbergraph_Task_Use_Item:0082
+[2018.10.28-16.15.05:494][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  Task_Use_Item Function:  Execute Ubergraph Task Use Item Graph:  EventGraph Node:  LineTraceByChannel
+[2018.10.28-16.15.05:684][793]LogActor: Warning: PlantFoodItem_C_4 is outside the world bounds!
+[2018.10.28-16.15.09:685][137]LogActor: Warning: PlantFoodItem_C_6 is outside the world bounds!
+[2018.10.28-16.15.10:413][205]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_0.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.10:413][205]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_0.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.12:662][400]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	Task_Use_Item_C /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel:PersistentLevel.AIS_AICon_C_2.BTComponent.Task_Use_Item_C_0
+	Function /Game/Controlie/AIS/Tasks/Task_Use_Item.Task_Use_Item_C:ExecuteUbergraph_Task_Use_Item:0082
+[2018.10.28-16.15.12:662][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  Task_Use_Item Function:  Execute Ubergraph Task Use Item Graph:  EventGraph Node:  LineTraceByChannel
+[2018.10.28-16.15.12:847][415]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_5.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.12:847][415]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_5.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.13:858][511]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_7.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.13:858][511]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_7.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.14:270][550]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_3.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.14:270][550]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_3.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.17:688][869]LogActor: Warning: PlantFoodItem_C_10 is outside the world bounds!
+[2018.10.28-16.15.19:663][ 50]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_8.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.19:663][ 50]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_8.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.22:601][331]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_11.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.22:602][331]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_11.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.24:015][463]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_9.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.24:015][463]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_9.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.25:437][598]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_13.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.25:437][598]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_13.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.27:733][812]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	Task_Use_Item_C /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel:PersistentLevel.AIS_AICon_C_3.BTComponent.Task_Use_Item_C_0
+	Function /Game/Controlie/AIS/Tasks/Task_Use_Item.Task_Use_Item_C:ExecuteUbergraph_Task_Use_Item:0082
+[2018.10.28-16.15.27:734][812]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  Task_Use_Item Function:  Execute Ubergraph Task Use Item Graph:  EventGraph Node:  LineTraceByChannel
+[2018.10.28-16.15.30:323][ 55]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_14.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.30:323][ 55]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_14.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.30:780][ 98]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_15.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.30:780][ 98]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_15.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.31:867][202]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	Task_Use_Item_C /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel:PersistentLevel.AIS_AICon_C_0.BTComponent.Task_Use_Item_C_0
+	Function /Game/Controlie/AIS/Tasks/Task_Use_Item.Task_Use_Item_C:ExecuteUbergraph_Task_Use_Item:0082
+[2018.10.28-16.15.31:867][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  Task_Use_Item Function:  Execute Ubergraph Task Use Item Graph:  EventGraph Node:  LineTraceByChannel
+[2018.10.28-16.15.32:766][288]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_17.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.32:767][288]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_17.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.33:427][352]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	Task_Use_Item_C /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel:PersistentLevel.AIS_AICon_C_2.BTComponent.Task_Use_Item_C_0
+	Function /Game/Controlie/AIS/Tasks/Task_Use_Item.Task_Use_Item_C:ExecuteUbergraph_Task_Use_Item:0082
+[2018.10.28-16.15.33:427][352]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  Task_Use_Item Function:  Execute Ubergraph Task Use Item Graph:  EventGraph Node:  LineTraceByChannel
+[2018.10.28-16.15.39:924][886]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_18.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.39:924][886]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_18.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.42:432][104]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_19.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.42:432][104]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_19.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.43:447][198]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_21.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.43:448][198]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_21.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.46:655][499]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_16.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.46:655][499]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_16.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.50:404][834]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_20.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.50:404][834]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_20.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.50:765][866]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	Task_Use_Item_C /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel:PersistentLevel.AIS_AICon_C_3.BTComponent.Task_Use_Item_C_0
+	Function /Game/Controlie/AIS/Tasks/Task_Use_Item.Task_Use_Item_C:ExecuteUbergraph_Task_Use_Item:0082
+[2018.10.28-16.15.50:765][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  Task_Use_Item Function:  Execute Ubergraph Task Use Item Graph:  EventGraph Node:  LineTraceByChannel
+[2018.10.28-16.15.51:859][964]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_25.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.51:859][964]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_25.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.55:190][236]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_24.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.55:190][236]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_24.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.15.57:405][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-16.15.57:474][417]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.15.57:476][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-16.15.57:511][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.28-16.15.57:512][417]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.15.57:650][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-16.15.57:703][418]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.10.28-16.16.14:306][323]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AISLevelB83599BA49D9249F336DE185301CFA77.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel.umap'
+[2018.10.28-16.16.14:402][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/Levels/AISLevel_BuiltData" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel_BuiltData.uasset" SILENT=true
+[2018.10.28-16.16.14:486][323]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AISLevel_BuiltData8A6323134FAFD9C39BBBA2B612281B32.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel_BuiltData.uasset'
+[2018.10.28-16.16.17:418][636]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/AIS/AIS_Character.AIS_Character
+[2018.10.28-16.16.40:209][  3]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.16.40:209][  3]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.16.40:209][  3]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.16.40:209][  3]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.16.40:209][  3]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.16.40:209][  3]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.16.41:268][105]BlueprintLog: New page: Compile AIS_Character
+[2018.10.28-16.16.41:837][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_Character" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset" SILENT=true
+[2018.10.28-16.16.41:998][105]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_Character82EF08EB4E1A3D74FD95E886BCA65337.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset'
+[2018.10.28-16.16.42:297][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_Character" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset" SILENT=true
+[2018.10.28-16.16.42:440][106]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_CharacterFC0223784E57200AA29843A15F7410C0.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset'
+[2018.10.28-16.16.44:310][264]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AISLevelC5640A1E47E38357F532C5B3C6FC67F5.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel.umap'
+[2018.10.28-16.16.44:404][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/Levels/AISLevel_BuiltData" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel_BuiltData.uasset" SILENT=true
+[2018.10.28-16.16.44:470][264]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AISLevel_BuiltDataDCFA122A4DF7E7DD684331ADD8378E29.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel_BuiltData.uasset'
+[2018.10.28-16.16.47:596][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-16.16.47:663][618]LogTemp: Repeating last play command: Simulate
+[2018.10.28-16.16.47:730][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.16.47:730][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-16.16.47:730][618]PIE: New page: SIE session: AISLevel (Oct 28, 2018, 6:16:47 AM)
+[2018.10.28-16.16.47:730][618]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_AISLevel
+[2018.10.28-16.16.47:739][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008332s)
+[2018.10.28-16.16.47:739][618]LogAIModule: Creating AISystem for world AISLevel
+[2018.10.28-16.16.47:740][618]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2018.10.28-16.16.47:740][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/AISLevel.AISLevel to /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel (0.009351s)
+[2018.10.28-16.16.47:898][618]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.28-16.16.47:915][618]LogInit: FAudioDevice initialized.
+[2018.10.28-16.16.47:944][618]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.10.28-16.16.47:949][618]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel up for play (max tick rate 0) at 2018.10.28-11.16.47
+[2018.10.28-16.16.47:951][618]LogWorld: Bringing up level for play took: 0.006107
+[2018.10.28-16.16.47:967][618]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_AISLevel 1.064
+[2018.10.28-16.16.47:980][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.16.57:930][388]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.16.57:930][388]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.16.58:339][426]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_0.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.16.58:339][426]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_0.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.16.58:443][436]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	Task_Use_Item_C /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel:PersistentLevel.AIS_AICon_C_0.BTComponent.Task_Use_Item_C_0
+	Function /Game/Controlie/AIS/Tasks/Task_Use_Item.Task_Use_Item_C:ExecuteUbergraph_Task_Use_Item:0082
+[2018.10.28-16.16.58:443][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  Task_Use_Item Function:  Execute Ubergraph Task Use Item Graph:  EventGraph Node:  LineTraceByChannel
+[2018.10.28-16.16.59:683][554]LogCharacterMovement: AIS_Character3_5 is stuck and failed to move! Velocity: X=459.65 Y=223.65 Z=0.00 Location: X=-431.36 Y=-1208.84 Z=108.17 Normal: X=-0.71 Y=-0.02 Z=-0.71 PenetrationDepth:26.154 Actor:PlantFoodItem_C_4 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.10.28-16.17.00:948][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-16.17.01:024][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.17.01:024][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-16.17.01:066][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.28-16.17.01:067][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.17.01:193][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-16.17.01:228][660]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.10.28-16.17.06:689][183]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.17.06:690][183]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.17.06:690][183]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.17.06:690][183]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.17.06:690][183]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.17.06:690][183]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.17.08:265][357]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.17.08:265][357]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.17.08:265][357]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.17.08:265][357]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.17.08:265][357]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.17.08:265][357]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2018.10.28-16.17.14:129][953]LogRenderer: Reallocating scene render targets to support 1196x676 Format 26 NumSamples 1 (Frame:1).
+[2018.10.28-16.17.53:873][641]BlueprintLog: New page: Compile AIS_Character
+[2018.10.28-16.17.54:410][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_Character" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset" SILENT=true
+[2018.10.28-16.17.54:566][641]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_Character44EFBA094A28496B5897E58DE9E15F29.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset'
+[2018.10.28-16.17.54:904][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_Character" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset" SILENT=true
+[2018.10.28-16.17.55:047][669]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_CharacterC563084A43A30EDC28FA29BE6D260BA3.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset'
+[2018.10.28-16.17.56:540][787]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AISLevelCEC9DE56428CE227BB4D16B21F41377A.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel.umap'
+[2018.10.28-16.17.56:632][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/Levels/AISLevel_BuiltData" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel_BuiltData.uasset" SILENT=true
+[2018.10.28-16.17.56:699][787]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AISLevel_BuiltData7328795F459C4DFF3C44F794E2C4550F.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel_BuiltData.uasset'
+[2018.10.28-16.17.57:071][830]LogTemp: Repeating last play command: Simulate
+[2018.10.28-16.17.57:126][830]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.17.57:126][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-16.17.57:126][830]PIE: New page: SIE session: AISLevel (Oct 28, 2018, 6:17:57 AM)
+[2018.10.28-16.17.57:126][830]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_AISLevel
+[2018.10.28-16.17.57:134][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007922s)
+[2018.10.28-16.17.57:135][830]LogAIModule: Creating AISystem for world AISLevel
+[2018.10.28-16.17.57:135][830]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2018.10.28-16.17.57:135][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/AISLevel.AISLevel to /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel (0.008949s)
+[2018.10.28-16.17.57:286][830]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.28-16.17.57:302][830]LogInit: FAudioDevice initialized.
+[2018.10.28-16.17.57:333][830]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.10.28-16.17.57:339][830]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel up for play (max tick rate 0) at 2018.10.28-11.17.57
+[2018.10.28-16.17.57:340][830]LogWorld: Bringing up level for play took: 0.006251
+[2018.10.28-16.17.57:357][830]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_AISLevel 0.455
+[2018.10.28-16.17.57:361][830]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.18.05:751][586]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.18.05:751][586]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.18.06:632][656]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_2.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.18.06:632][656]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_2.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.18.07:163][703]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_3.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.18.07:163][703]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_3.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.10.28-16.18.07:697][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-16.18.07:806][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.18.07:807][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-16.18.07:848][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.28-16.18.07:849][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.18.07:987][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-16.18.08:024][767]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.10.28-16.18.18:038][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-16.18.20:346][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-16.18.20:446][181]BlueprintLog: New page: Compile AIS_Character
+[2018.10.28-16.18.20:970][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_Character" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset" SILENT=true
+[2018.10.28-16.18.21:124][181]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_Character8FAE1E6846A865B297CC16B1F196C2C1.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset'
+[2018.10.28-16.18.22:119][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_Character" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset" SILENT=true
+[2018.10.28-16.18.22:263][288]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_Character2DF121BD4908E14F5BFE09BC7139DAA1.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset'
+[2018.10.28-16.18.23:535][383]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AISLevel27BB76B143BD5CDD5A4F289840DFA1E3.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel.umap'
+[2018.10.28-16.18.23:626][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/Levels/AISLevel_BuiltData" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel_BuiltData.uasset" SILENT=true
+[2018.10.28-16.18.23:692][383]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AISLevel_BuiltData6FABEFCA45402ACE10E42C909751A4D4.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel_BuiltData.uasset'
+[2018.10.28-16.18.24:055][425]LogTemp: Repeating last play command: Simulate
+[2018.10.28-16.18.24:110][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.18.24:110][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-16.18.24:110][425]PIE: New page: SIE session: AISLevel (Oct 28, 2018, 6:18:24 AM)
+[2018.10.28-16.18.24:110][425]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_AISLevel
+[2018.10.28-16.18.24:118][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007914s)
+[2018.10.28-16.18.24:119][425]LogAIModule: Creating AISystem for world AISLevel
+[2018.10.28-16.18.24:119][425]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2018.10.28-16.18.24:119][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/AISLevel.AISLevel to /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel (0.008911s)
+[2018.10.28-16.18.24:259][425]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.28-16.18.24:276][425]LogInit: FAudioDevice initialized.
+[2018.10.28-16.18.24:310][425]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.10.28-16.18.24:315][425]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel up for play (max tick rate 0) at 2018.10.28-11.18.24
+[2018.10.28-16.18.24:317][425]LogWorld: Bringing up level for play took: 0.005698
+[2018.10.28-16.18.24:334][425]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_AISLevel -0.569
+[2018.10.28-16.18.24:337][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.18.26:875][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.18.26:877][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-16.18.26:916][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.28-16.18.26:916][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.10.28-16.18.27:046][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-16.18.27:068][656]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.10.28-16.18.27:801][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-16.19.07:168][314]Running E:/Unreal_Engine/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe Win64 Development -TargetType=Editor -Project="E:/controliegit/controliegame/ControliePractice/ControliePractice.uproject" -invalidatemakefilesonly
+[2018.10.28-16.19.08:282][314]Invalidating makefiles only in this run.
+[2018.10.28-16.19.08:411][314]Candidate modules for hot reload:
+[2018.10.28-16.19.08:411][314]  ControliePractice
+[2018.10.28-16.19.08:411][314]Launching UnrealBuildTool... [E:/Unreal_Engine/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ControliePractice,6461 Win64 Development -TargetType=Editor -Project="../../../../../controliegit/controliegame/ControliePractice/ControliePractice.uproject" -canskiplink "E:/controliegit/controliegame/ControliePractice/ControliePractice.uproject" ]
+[2018.10.28-16.19.32:467][314]CompilerResultsLog: New page: Compilation - Oct 28, 2018, 6:19:32 AM
+[2018.10.28-16.19.32:467][314]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.10.28-16.19.32:467][314]CompilerResultsLog: Creating makefile for hot reloading ControliePracticeEditor (no existing makefile)
+[2018.10.28-16.19.32:467][314]CompilerResultsLog: Compiling game modules for hot reload
+[2018.10.28-16.19.32:467][314]CompilerResultsLog: Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2018.10.28-16.19.32:467][314]CompilerResultsLog: E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\DatasmithMDLImporter\DatasmithMDLImporter.Build.cs: warning: Referenced directory 'E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\ThirdParty\NotForLicensees\AxF-Decoding-SDK-1.5.1\include' does not exist.
+[2018.10.28-16.19.32:467][314]CompilerResultsLog: E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\DatasmithMDLImporter\DatasmithMDLImporter.Build.cs: warning: Referenced directory 'E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\ThirdParty\NotForLicensees\mdl-sdk-302800.547\include' does not exist.
+[2018.10.28-16.19.32:467][314]CompilerResultsLog: Parsing headers for ControliePracticeEditor
+[2018.10.28-16.19.32:468][314]CompilerResultsLog:   Running UnrealHeaderTool "E:\controliegit\controliegame\ControliePractice\ControliePractice.uproject" "E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\ControliePracticeEditor\Development\ControliePracticeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.10.28-16.19.32:468][314]CompilerResultsLog: Reflection code generated for ControliePracticeEditor in 13.7762567 seconds
+[2018.10.28-16.19.32:468][314]CompilerResultsLog: Building 5 actions with 8 processes...
+[2018.10.28-16.19.32:468][314]CompilerResultsLog:   [1/5] ControliePractice.init.gen.cpp
+[2018.10.28-16.19.32:468][314]CompilerResultsLog:   [2/5] My_AIS_Character.cpp
+[2018.10.28-16.19.32:468][314]CompilerResultsLog:   [3/5] My_AIS_Character.gen.cpp
+[2018.10.28-16.19.32:468][314]CompilerResultsLog:   [4/5] UE4Editor-ControliePractice-6461.lib
+[2018.10.28-16.19.32:468][314]CompilerResultsLog:      Creating library E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\UE4Editor\Development\ControliePractice\UE4Editor-ControliePractice-6461.lib and object E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\UE4Editor\Development\ControliePractice\UE4Editor-ControliePractice-6461.exp
+[2018.10.28-16.19.32:468][314]CompilerResultsLog:   [5/5] UE4Editor-ControliePractice-6461.dll
+[2018.10.28-16.19.32:468][314]CompilerResultsLog:      Creating library E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\UE4Editor\Development\ControliePractice\UE4Editor-ControliePractice-6461.suppressed.lib and object E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\UE4Editor\Development\ControliePractice\UE4Editor-ControliePractice-6461.suppressed.exp
+[2018.10.28-16.19.32:468][314]CompilerResultsLog: Total build time: 23.74 seconds (Parallel executor: 2.32 seconds)
+[2018.10.28-16.19.32:468][314]LogMainFrame: MainFrame: Module compiling took 24.070 seconds
+[2018.10.28-16.19.32:591][314]LogClass: Could not find existing class My_AIS_Character in package /Script/ControliePractice for HotReload, assuming new class
+[2018.10.28-16.19.32:596][314]LogContentBrowser: Native class hierarchy updated for 'ControliePractice' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2018.10.28-16.19.32:605][314]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.28-16.19.33:353][314]LogContentBrowser: Native class hierarchy populated in 0.0202 seconds. Added 2631 classes and 635 folders.
+[2018.10.28-16.19.33:369][314]Display: HotReload took 25.0s.
+[2018.10.28-16.19.33:370][314]Warning: HotReload operation took 25.0s.
+[2018.10.28-16.19.33:652][314]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.10.28-16.19.33:663][314]LogHotReload: New module detected: UE4Editor-ControliePractice-6461.dll
+[2018.10.28-16.19.33:729][315]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.28-16.19.33:897][315]LogContentBrowser: Native class hierarchy updated for 'ControliePractice' in 0.0012 seconds. Added 2 classes and 2 folders.
+[2018.10.28-16.19.33:905][315]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.28-16.19.34:497][315]LogContentBrowser: Native class hierarchy populated in 0.0192 seconds. Added 2631 classes and 635 folders.
+[2018.10.28-16.19.34:524][315]Display: HotReload took  0.8s.
+[2018.10.28-16.36.12:545][875]LogHotReload: New module detected: UE4Editor-ControliePractice-5136.dll
+[2018.10.28-16.36.13:579][879]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.28-16.36.13:801][879]LogClass: Could not find existing class My_AIS_Character in package /Script/ControliePractice for HotReload, assuming new class
+[2018.10.28-16.36.13:830][879]LogHotReload: Re-instancing My_AIS_Character after hot-reload.
+[2018.10.28-16.36.14:099][879]LogContentBrowser: Native class hierarchy updated for 'ControliePractice' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2018.10.28-16.36.14:106][879]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.28-16.36.14:762][879]LogContentBrowser: Native class hierarchy populated in 0.0172 seconds. Added 2631 classes and 635 folders.
+[2018.10.28-16.36.14:786][879]Display: HotReload took  1.2s.
+[2018.10.28-16.36.25:964][344]Candidate modules for hot reload:
+[2018.10.28-16.36.25:964][344]  ControliePractice
+[2018.10.28-16.36.25:964][344]Launching UnrealBuildTool... [E:/Unreal_Engine/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ControliePractice,732 Win64 Development -TargetType=Editor -Project="../../../../../controliegit/controliegame/ControliePractice/ControliePractice.uproject" -canskiplink "E:/controliegit/controliegame/ControliePractice/ControliePractice.uproject" ]
+[2018.10.28-16.36.25:978][344]Warning: Starting HotReload took  0.0s.
+[2018.10.28-16.36.34:358][548]CompilerResultsLog: New page: Compilation - Oct 28, 2018, 6:36:34 AM
+[2018.10.28-16.36.34:358][548]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.10.28-16.36.34:358][548]CompilerResultsLog: Creating makefile for hot reloading ControliePracticeEditor (modules to compile have changed)
+[2018.10.28-16.36.34:358][548]CompilerResultsLog: Compiling game modules for hot reload
+[2018.10.28-16.36.34:358][548]CompilerResultsLog: Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2018.10.28-16.36.34:358][548]CompilerResultsLog: E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\DatasmithMDLImporter\DatasmithMDLImporter.Build.cs: warning: Referenced directory 'E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\ThirdParty\NotForLicensees\AxF-Decoding-SDK-1.5.1\include' does not exist.
+[2018.10.28-16.36.34:358][548]CompilerResultsLog: E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\DatasmithMDLImporter\DatasmithMDLImporter.Build.cs: warning: Referenced directory 'E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\ThirdParty\NotForLicensees\mdl-sdk-302800.547\include' does not exist.
+[2018.10.28-16.36.34:358][548]CompilerResultsLog: Target is up to date
+[2018.10.28-16.36.34:358][548]CompilerResultsLog: Total build time: 7.91 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.10.28-16.36.34:359][548]LogMainFrame: MainFrame: Module compiling took 8.406 seconds
+[2018.10.28-16.36.34:976][548]LogContentBrowser: Native class hierarchy populated in 0.0186 seconds. Added 2631 classes and 635 folders.
+[2018.10.28-16.36.34:987][548]Display: HotReload took  9.0s.
+[2018.10.28-16.37.00:324][547]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.28-16.37.10:414][721]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Controlie/AIS/AIS_Character.AIS_Character from Character to My_AIS_Character...
+[2018.10.28-16.37.10:465][721]BlueprintLog: New page: Compile AIS_Character
+[2018.10.28-16.37.11:156][721]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.28-16.37.11:179][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_Character" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset" SILENT=true
+[2018.10.28-16.37.11:343][721]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_Character16222CE8400F1F29BF7F32A33AA95F6B.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset'
+[2018.10.28-16.37.51:218][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_Character" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset" SILENT=true
+[2018.10.28-16.37.51:370][540]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_CharacterB3B2F97C49C42EF7F8B6DBB7F269F358.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset'
+[2018.10.28-16.37.51:702][579]BlueprintLog: New page: Compile AIS_Character
+[2018.10.28-16.37.58:162][180]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AISLevelF714C4174174DECD6F2E45B7D275127F.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel.umap'
+[2018.10.28-16.37.58:255][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/Levels/AISLevel_BuiltData" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel_BuiltData.uasset" SILENT=true
+[2018.10.28-16.37.58:330][180]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AISLevel_BuiltData647A2A9143B36FB8377E959AADFA5A9E.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel_BuiltData.uasset'
+[2018.10.28-16.51.04:868][841]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/GoodFoodClass3853181247AE4DECE28D5190E658578B.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/BaseClasses/GoodFoodClass.uasset'
+[2018.10.28-16.51.05:919][964]BlueprintLog: New page: Compile GoodFoodClass
+[2018.10.28-16.51.56:403][961]BlueprintLog: New page: Compile AIS_Character
+[2018.10.28-16.51.56:992][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_Character" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset" SILENT=true
+[2018.10.28-16.51.57:161][961]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_CharacterF36E8B574431A3BE25D6CFAFDD23CD5E.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset'
+[2018.10.28-16.52.09:931][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_Character" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset" SILENT=true
+[2018.10.28-16.52.10:091][  5]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_CharacterC0FC4FEE426780E006F519A202B0982B.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_Character.uasset'
+[2018.10.28-16.52.11:878][145]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AISLevel0F5F108B42A09EDB03B52D8C0BAFEE40.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel.umap'
+[2018.10.28-16.52.11:976][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/Levels/AISLevel_BuiltData" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel_BuiltData.uasset" SILENT=true
+[2018.10.28-16.52.12:055][145]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AISLevel_BuiltData8642036548F0B573BF6B6A919483880E.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel_BuiltData.uasset'
+[2018.10.28-16.55.57:516][258]Running E:/Unreal_Engine/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe Win64 Development -TargetType=Editor -Project="E:/controliegit/controliegame/ControliePractice/ControliePractice.uproject" -invalidatemakefilesonly
+[2018.10.28-16.55.58:731][258]Invalidating makefiles only in this run.
+[2018.10.28-16.55.59:009][258]Candidate modules for hot reload:
+[2018.10.28-16.55.59:009][258]  ControliePractice
+[2018.10.28-16.55.59:009][258]Launching UnrealBuildTool... [E:/Unreal_Engine/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ControliePractice,3093 Win64 Development -TargetType=Editor -Project="../../../../../controliegit/controliegame/ControliePractice/ControliePractice.uproject" -canskiplink "E:/controliegit/controliegame/ControliePractice/ControliePractice.uproject" ]
+[2018.10.28-16.56.24:282][258]CompilerResultsLog: New page: Compilation - Oct 28, 2018, 6:56:24 AM
+[2018.10.28-16.56.24:282][258]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.10.28-16.56.24:282][258]CompilerResultsLog: Creating makefile for hot reloading ControliePracticeEditor (no existing makefile)
+[2018.10.28-16.56.24:282][258]CompilerResultsLog: Compiling game modules for hot reload
+[2018.10.28-16.56.24:282][258]CompilerResultsLog: Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2018.10.28-16.56.24:282][258]CompilerResultsLog: E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\DatasmithMDLImporter\DatasmithMDLImporter.Build.cs: warning: Referenced directory 'E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\ThirdParty\NotForLicensees\AxF-Decoding-SDK-1.5.1\include' does not exist.
+[2018.10.28-16.56.24:282][258]CompilerResultsLog: E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\DatasmithMDLImporter\DatasmithMDLImporter.Build.cs: warning: Referenced directory 'E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\ThirdParty\NotForLicensees\mdl-sdk-302800.547\include' does not exist.
+[2018.10.28-16.56.24:282][258]CompilerResultsLog: Parsing headers for ControliePracticeEditor
+[2018.10.28-16.56.24:282][258]CompilerResultsLog:   Running UnrealHeaderTool "E:\controliegit\controliegame\ControliePractice\ControliePractice.uproject" "E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\ControliePracticeEditor\Development\ControliePracticeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.10.28-16.56.24:282][258]CompilerResultsLog: Reflection code generated for ControliePracticeEditor in 13.971245 seconds
+[2018.10.28-16.56.24:283][258]CompilerResultsLog: Building 5 actions with 8 processes...
+[2018.10.28-16.56.24:283][258]CompilerResultsLog:   [1/5] ControliePractice.init.gen.cpp
+[2018.10.28-16.56.24:283][258]CompilerResultsLog:   [2/5] My_AIS_EnvQueryTest.cpp
+[2018.10.28-16.56.24:283][258]CompilerResultsLog:   [3/5] My_AIS_EnvQueryTest.gen.cpp
+[2018.10.28-16.56.24:283][258]CompilerResultsLog:   [4/5] UE4Editor-ControliePractice-3093.lib
+[2018.10.28-16.56.24:283][258]CompilerResultsLog:      Creating library E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\UE4Editor\Development\ControliePractice\UE4Editor-ControliePractice-3093.lib and object E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\UE4Editor\Development\ControliePractice\UE4Editor-ControliePractice-3093.exp
+[2018.10.28-16.56.24:283][258]CompilerResultsLog:   [5/5] UE4Editor-ControliePractice-3093.dll
+[2018.10.28-16.56.24:283][258]CompilerResultsLog:      Creating library E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\UE4Editor\Development\ControliePractice\UE4Editor-ControliePractice-3093.suppressed.lib and object E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\UE4Editor\Development\ControliePractice\UE4Editor-ControliePractice-3093.suppressed.exp
+[2018.10.28-16.56.24:283][258]CompilerResultsLog: Total build time: 24.93 seconds (Parallel executor: 2.85 seconds)
+[2018.10.28-16.56.24:283][258]LogMainFrame: MainFrame: Module compiling took 25.286 seconds
+[2018.10.28-16.56.24:427][258]LogClass: Could not find existing class My_AIS_EnvQueryTest in package /Script/ControliePractice for HotReload, assuming new class
+[2018.10.28-16.56.24:434][258]LogContentBrowser: Native class hierarchy updated for 'ControliePractice' in 0.0007 seconds. Added 3 classes and 2 folders.
+[2018.10.28-16.56.24:442][258]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.28-16.56.25:098][258]LogContentBrowser: Native class hierarchy populated in 0.0187 seconds. Added 2632 classes and 635 folders.
+[2018.10.28-16.56.25:109][258]Display: HotReload took 26.3s.
+[2018.10.28-16.56.25:111][258]Warning: HotReload operation took 26.3s.
+[2018.10.28-16.56.25:256][258]LogVSAccessor: Warning: Couldn't goto line number '1' in 'E:/controliegit/controliegame/ControliePractice/Source/ControliePractice/My_AIS_EnvQueryTest.h'
+[2018.10.28-16.56.25:369][258]LogVSAccessor: Warning: Couldn't goto line number '1' in 'E:/controliegit/controliegame/ControliePractice/Source/ControliePractice/My_AIS_EnvQueryTest.cpp'
+[2018.10.28-16.56.25:383][258]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.10.28-16.56.25:787][260]LogHotReload: New module detected: UE4Editor-ControliePractice-3093.dll
+[2018.10.28-16.56.25:815][261]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.28-16.56.25:999][261]LogContentBrowser: Native class hierarchy updated for 'ControliePractice' in 0.0009 seconds. Added 3 classes and 2 folders.
+[2018.10.28-16.56.26:008][261]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.28-16.56.26:591][261]LogContentBrowser: Native class hierarchy populated in 0.0178 seconds. Added 2632 classes and 635 folders.
+[2018.10.28-16.56.26:616][261]Display: HotReload took  0.8s.
+[2018.10.28-22.24.41:074][634]LogHttp: Warning: 0000016ABF00B880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.10.28-22.24.41:074][634]LogHttp: Warning: 0000016ABF00B880: libcurl info message cache 0 (Connection 113 seems to be dead!)
+[2018.10.28-22.24.41:074][634]LogHttp: Warning: 0000016ABF00B880: libcurl info message cache 1 (Closing connection 113)
+[2018.10.28-22.24.41:074][634]LogHttp: Warning: 0000016ABF00B880: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.10.28-22.24.41:074][634]LogHttp: Warning: 0000016ABF00B880: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.10.28-22.24.41:074][634]LogHttp: Warning: 0000016ABF00B880: libcurl info message cache 4 (Closing connection 114)
+[2018.10.29-03.08.41:564][455]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.29-03.08.41:639][455]LogSlate: Window 'ControliePractice - Unreal Editor' being destroyed
+[2018.10.29-03.08.41:641][455]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.29-03.08.41:954][456]Cmd: QUIT_EDITOR
+[2018.10.29-03.08.42:478][456]LogExit: Preparing to exit.
+[2018.10.29-03.08.43:664][456]LogExit: Editor shut down
+[2018.10.29-03.08.43:665][456]LogExit: Transaction tracking system shut down
+[2018.10.29-03.08.44:427][456]LogExit: Object subsystem successfully closed.
+[2018.10.29-03.08.44:450][456]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.29-03.08.44:460][456]LogD3D11RHI: Shutdown
+[2018.10.29-03.08.44:460][456]LogD3D11RHI: CleanupD3DDevice
+[2018.10.29-03.08.44:466][456]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.29-03.08.44:484][456]LogModuleManager: Shutting down and abandoning module ControliePractice (643)
+[2018.10.29-03.08.44:484][456]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (638)
+[2018.10.29-03.08.44:484][456]LogModuleManager: Shutting down and abandoning module Voice (636)
+[2018.10.29-03.08.44:484][456]LogModuleManager: Shutting down and abandoning module BlueprintGraph (634)
+[2018.10.29-03.08.44:484][456]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (632)
+[2018.10.29-03.08.44:484][456]LogModuleManager: Shutting down and abandoning module SceneOutliner (630)
+[2018.10.29-03.08.44:484][456]LogModuleManager: Shutting down and abandoning module AddContentDialog (628)
+[2018.10.29-03.08.44:488][456]LogModuleManager: Shutting down and abandoning module WidgetCarousel (627)
+[2018.10.29-03.08.44:488][456]LogModuleManager: Shutting down and abandoning module EditorWidgets (624)
+[2018.10.29-03.08.44:488][456]LogModuleManager: Shutting down and abandoning module CollectionManager (622)
+[2018.10.29-03.08.44:488][456]LogModuleManager: Shutting down and abandoning module StatsViewer (620)
+[2018.10.29-03.08.44:488][456]LogModuleManager: Shutting down and abandoning module FoliageEdit (618)
+[2018.10.29-03.08.44:488][456]LogModuleManager: Shutting down and abandoning module LandscapeEditor (616)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module MeshPaintMode (614)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (612)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module ActorPickerMode (610)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module GeometryMode (608)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module TextureAlignMode (606)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module BspMode (604)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (602)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (600)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module AutomationWorker (598)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (596)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (594)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (592)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (590)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module SequenceRecorder (589)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (586)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (584)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module PlacementMode (583)
+[2018.10.29-03.08.44:489][456]LogModuleManager: Shutting down and abandoning module MaterialEditor (582)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (578)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (576)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (574)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (572)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (570)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (568)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (566)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (564)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (562)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (560)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (558)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (556)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (554)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module CharacterAI (552)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module SmartSnapping (550)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module SessionServices (548)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2018.10.29-03.08.44:490][456]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2018.10.29-03.08.44:491][456]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2018.10.29-03.08.44:491][456]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2018.10.29-03.08.44:491][456]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2018.10.29-03.08.44:491][456]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2018.10.29-03.08.46:213][456]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2018.10.29-03.08.46:214][456]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2018.10.29-03.08.46:214][456]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2018.10.29-03.08.46:214][456]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2018.10.29-03.08.46:214][456]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2018.10.29-03.08.46:214][456]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2018.10.29-03.08.46:214][456]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2018.10.29-03.08.46:214][456]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2018.10.29-03.08.46:280][456]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2018.10.29-03.08.46:280][456]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2018.10.29-03.08.46:280][456]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2018.10.29-03.08.46:280][456]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2018.10.29-03.08.46:280][456]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2018.10.29-03.08.46:280][456]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2018.10.29-03.08.46:280][456]LogModuleManager: Shutting down and abandoning module Persona (466)
+[2018.10.29-03.08.46:280][456]LogModuleManager: Shutting down and abandoning module AnimGraph (465)
+[2018.10.29-03.08.46:280][456]LogModuleManager: Shutting down and abandoning module Kismet (462)
+[2018.10.29-03.08.46:296][456]LogModuleManager: Shutting down and abandoning module GraphEditor (460)
+[2018.10.29-03.08.46:296][456]LogModuleManager: Shutting down and abandoning module ClassViewer (458)
+[2018.10.29-03.08.46:298][456]LogModuleManager: Shutting down and abandoning module Toolbox (456)
+[2018.10.29-03.08.46:298][456]LogModuleManager: Shutting down and abandoning module DesktopPlatform (455)
+[2018.10.29-03.08.46:298][456]LogModuleManager: Shutting down and abandoning module ModuleUI (452)
+[2018.10.29-03.08.46:298][456]LogModuleManager: Shutting down and abandoning module MovieSceneTools (450)
+[2018.10.29-03.08.46:298][456]LogModuleManager: Shutting down and abandoning module OutputLog (448)
+[2018.10.29-03.08.46:298][456]LogModuleManager: Shutting down and abandoning module GammaUI (446)
+[2018.10.29-03.08.46:298][456]LogModuleManager: Shutting down and abandoning module Documentation (444)
+[2018.10.29-03.08.46:299][456]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (442)
+[2018.10.29-03.08.46:299][456]LogModuleManager: Shutting down and abandoning module MovieScene (440)
+[2018.10.29-03.08.46:299][456]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (438)
+[2018.10.29-03.08.46:299][456]LogModuleManager: Shutting down and abandoning module LauncherPlatform (436)
+[2018.10.29-03.08.46:299][456]LogModuleManager: Shutting down and abandoning module AnalyticsET (434)
+[2018.10.29-03.08.46:299][456]LogModuleManager: Shutting down and abandoning module PortalServices (432)
+[2018.10.29-03.08.46:299][456]LogModuleManager: Shutting down and abandoning module PortalRpc (430)
+[2018.10.29-03.08.46:299][456]LogModuleManager: Shutting down and abandoning module MessagingRpc (428)
+[2018.10.29-03.08.46:299][456]LogModuleManager: Shutting down and abandoning module AIModule (426)
+[2018.10.29-03.08.46:299][456]LogModuleManager: Shutting down and abandoning module GameplayDebugger (425)
+[2018.10.29-03.08.46:299][456]LogModuleManager: Shutting down and abandoning module AITestSuite (423)
+[2018.10.29-03.08.46:299][456]LogModuleManager: Shutting down and abandoning module NavigationSystem (421)
+[2018.10.29-03.08.46:299][456]LogModuleManager: Shutting down and abandoning module ProfilerService (418)
+[2018.10.29-03.08.46:338][456]LogModuleManager: Shutting down and abandoning module TaskGraph (416)
+[2018.10.29-03.08.46:338][456]LogModuleManager: Shutting down and abandoning module DatasmithCADImporter (414)
+[2018.10.29-03.08.46:338][456]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (412)
+[2018.10.29-03.08.46:338][456]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (411)
+[2018.10.29-03.08.46:338][456]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (410)
+[2018.10.29-03.08.46:338][456]LogModuleManager: Shutting down and abandoning module DatasmithMDLImporter (406)
+[2018.10.29-03.08.46:339][456]LogModuleManager: Shutting down and abandoning module DatasmithImporter (404)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (376)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2018.10.29-03.08.46:340][456]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2018.10.29-03.08.46:346][456]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2018.10.29-03.08.46:346][456]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2018.10.29-03.08.46:346][456]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2018.10.29-03.08.46:346][456]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2018.10.29-03.08.46:346][456]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2018.10.29-03.08.46:346][456]LogModuleManager: Shutting down and abandoning module AppleImageUtils (358)
+[2018.10.29-03.08.46:346][456]LogModuleManager: Shutting down and abandoning module AlembicImporter (356)
+[2018.10.29-03.08.46:346][456]LogModuleManager: Shutting down and abandoning module AlembicLibrary (355)
+[2018.10.29-03.08.46:346][456]LogModuleManager: Shutting down and abandoning module GeometryCache (354)
+[2018.10.29-03.08.46:346][456]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (353)
+[2018.10.29-03.08.46:346][456]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (348)
+[2018.10.29-03.08.46:346][456]LogModuleManager: Shutting down and abandoning module DatasmithContent (346)
+[2018.10.29-03.08.46:347][456]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (344)
+[2018.10.29-03.08.46:347][456]LogModuleManager: Shutting down and abandoning module PluginBrowser (342)
+[2018.10.29-03.08.46:347][456]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (340)
+[2018.10.29-03.08.46:347][456]LogModuleManager: Shutting down and abandoning module PolygonModeling (338)
+[2018.10.29-03.08.46:347][456]LogModuleManager: Shutting down and abandoning module MeshEditor (336)
+[2018.10.29-03.08.46:347][456]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (334)
+[2018.10.29-03.08.46:347][456]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2018.10.29-03.08.46:347][456]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2018.10.29-03.08.46:347][456]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2018.10.29-03.08.46:347][456]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2018.10.29-03.08.46:347][456]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (312)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (310)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (308)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module Paper2DEditor (306)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module MeshPaint (305)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (300)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (298)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module PhysXVehicles (296)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module OculusEditor (294)
+[2018.10.29-03.08.46:348][456]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2018.10.29-03.08.46:349][456]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (290)
+[2018.10.29-03.08.46:349][456]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (288)
+[2018.10.29-03.08.46:349][456]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2018.10.29-03.08.46:349][456]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2018.10.29-03.08.46:450][456]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2018.10.29-03.08.46:551][456]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (280)
+[2018.10.29-03.08.46:551][456]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2018.10.29-03.08.46:551][456]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2018.10.29-03.08.46:551][456]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2018.10.29-03.08.46:551][456]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2018.10.29-03.08.46:551][456]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2018.10.29-03.08.46:551][456]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.10.29-03.08.46:553][456]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.10.29-03.08.46:553][456]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2018.10.29-03.08.46:553][456]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2018.10.29-03.08.46:553][456]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2018.10.29-03.08.46:554][456]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2018.10.29-03.08.46:556][456]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2018.10.29-03.08.46:556][456]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2018.10.29-03.08.46:556][456]LogModuleManager: Shutting down and abandoning module AISupportModule (252)
+[2018.10.29-03.08.46:556][456]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2018.10.29-03.08.46:556][456]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2018.10.29-03.08.46:556][456]LogModuleManager: Shutting down and abandoning module WmfMedia (246)
+[2018.10.29-03.08.46:558][456]LogModuleManager: Shutting down and abandoning module Media (245)
+[2018.10.29-03.08.46:564][456]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2018.10.29-03.08.46:564][456]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2018.10.29-03.08.46:564][456]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2018.10.29-03.08.46:564][456]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2018.10.29-03.08.46:564][456]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2018.10.29-03.08.46:564][456]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2018.10.29-03.08.46:564][456]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (230)
+[2018.10.29-03.08.46:564][456]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.29-03.08.46:564][456]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.29-03.08.46:565][456]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.29-03.08.46:565][456]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.29-03.08.46:565][456]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.29-03.08.46:565][456]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.29-03.08.46:565][456]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.29-03.08.46:565][456]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.29-03.08.46:565][456]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.29-03.08.46:565][456]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.29-03.08.46:565][456]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.29-03.08.46:565][456]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.29-03.08.46:565][456]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.29-03.08.46:565][456]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.29-03.08.46:568][456]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.29-03.08.46:569][456]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.29-03.08.46:570][456]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.29-03.08.46:617][456]LogDerivedDataCache: Shutdown
+[2018.10.29-03.08.46:617][456]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.29-03.08.46:617][456]LogXGEController: Cleaning working directory: C:/Users/Rayray/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.29-03.08.46:617][456]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.29-03.08.46:617][456]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.29-03.08.46:617][456]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.29-03.08.46:617][456]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.29-03.08.46:617][456]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.29-03.08.46:617][456]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.29-03.08.46:617][456]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.29-03.08.46:617][456]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.29-03.08.46:618][456]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.29-03.08.46:618][456]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.29-03.08.46:618][456]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.29-03.08.46:618][456]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.29-03.08.46:618][456]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.29-03.08.46:618][456]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.29-03.08.46:618][456]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.29-03.08.46:618][456]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.29-03.08.46:618][456]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.29-03.08.46:618][456]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.29-03.08.46:618][456]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.29-03.08.46:619][456]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.29-03.08.46:619][456]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.29-03.08.46:619][456]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.29-03.08.46:628][456]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.29-03.08.46:628][456]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.29-03.08.46:635][456]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.29-03.08.46:635][456]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.29-03.08.46:678][456]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.29-03.08.46:678][456]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.29-03.08.46:678][456]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.29-03.08.46:678][456]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.29-03.08.46:678][456]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.29-03.08.46:678][456]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.29-03.08.46:678][456]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.29-03.08.46:679][456]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.29-03.08.46:679][456]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.29-03.08.46:679][456]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.29-03.08.46:679][456]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.29-03.08.46:679][456]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.29-03.08.46:679][456]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.29-03.08.46:679][456]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.29-03.08.46:679][456]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.29-03.08.46:679][456]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.29-03.08.46:679][456]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.29-03.08.46:679][456]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.29-03.08.46:680][456]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.29-03.08.46:680][456]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.29-03.08.46:686][456]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.29-03.08.46:686][456]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.29-03.08.46:686][456]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B850EFCBC-417D-87A7-6DF8-969E45F8E232%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=1716449542d6b509f39843a71e4bae07%7C1baec983b97f4796bacc8ff667cbe195%7Cbb5ab3e9-97b2-4d17-97ec-caaca043106f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.29-03.08.46:720][456]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.29-03.08.46:722][456]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.29-03.08.46:722][456]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.29-03.08.46:722][456]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.29-03.08.46:722][456]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.29-03.08.46:722][456]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.29-03.08.46:722][456]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.29-03.08.46:722][456]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.29-03.08.46:722][456]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.29-03.08.46:722][456]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.29-03.08.46:722][456]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.29-03.08.46:722][456]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.29-03.08.46:723][456]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.29-03.08.46:723][456]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.29-03.08.46:723][456]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.29-03.08.46:723][456]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.29-03.08.46:723][456]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.29-03.08.46:723][456]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.29-03.08.46:723][456]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.29-03.08.46:725][456]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.29-03.08.46:725][456]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.29-03.08.46:725][456]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.29-03.08.46:725][456]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.29-03.08.46:725][456]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.29-03.08.46:725][456]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.29-03.08.46:725][456]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.29-03.08.46:725][456]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.29-03.08.46:725][456]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.29-03.08.46:725][456]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.29-03.08.46:725][456]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.29-03.08.46:735][456]LogExit: Exiting.
+[2018.10.29-03.08.46:746][456]Log file closed, 10/28/18 22:08:46

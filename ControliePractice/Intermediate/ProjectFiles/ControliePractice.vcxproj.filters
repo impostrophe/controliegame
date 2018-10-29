@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ControliePractice.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{875DDAD6-D782-42E4-9039-EE4B9361D393}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ControliePractice.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ControliePracticeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{08CB5533-5B3F-4480-AC1F-864151C38997}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultScalability.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ControliePractice">
+      <UniqueIdentifier>{B6000AEE-00EF-4484-A634-7E59C052F847}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ControliePractice\AIS_Character.cpp">
+      <Filter>Source\ControliePractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ControliePractice\AIS_Character.h">
+      <Filter>Source\ControliePractice</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ControliePractice\ControliePractice.Build.cs">
+      <Filter>Source\ControliePractice</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ControliePractice\ControliePractice.cpp">
+      <Filter>Source\ControliePractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ControliePractice\ControliePractice.h">
+      <Filter>Source\ControliePractice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ControliePractice\StatItem.cpp">
+      <Filter>Source\ControliePractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ControliePractice\StatItem.h">
+      <Filter>Source\ControliePractice</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\ControliePractice\MyActorStatItem.h">
+      <Filter>Source\ControliePractice</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ControliePractice\My_AIS_Character.h">
+      <Filter>Source\ControliePractice</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ControliePractice\My_AIS_EnvQueryTest.h">
+      <Filter>Source\ControliePractice</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\ControliePractice\MyActorStatItem.cpp">
+      <Filter>Source\ControliePractice</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ControliePractice\My_AIS_Character.cpp">
+      <Filter>Source\ControliePractice</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ControliePractice\My_AIS_EnvQueryTest.cpp">
+      <Filter>Source\ControliePractice</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

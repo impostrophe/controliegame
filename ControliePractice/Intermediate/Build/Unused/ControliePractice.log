@@ -1,0 +1,19 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for hot reloading ControliePracticeEditor (modules to compile have changed)
+  Compiling game modules for hot reload
+  Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\DatasmithMDLImporter\DatasmithMDLImporter.Build.cs : warning : Referenced directory 'E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\ThirdParty\NotForLicensees\AxF-Decoding-SDK-1.5.1\include' does not exist.
+E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\DatasmithMDLImporter\DatasmithMDLImporter.Build.cs : warning : Referenced directory 'E:\Unreal_Engine\UE_4.20\Enterprise\Plugins\Editor\DatasmithMDLImporter\Source\ThirdParty\NotForLicensees\mdl-sdk-302800.547\include' does not exist.
+  Parsing headers for ControliePracticeEditor
+    Running UnrealHeaderTool "E:\controliegit\controliegame\ControliePractice\ControliePractice.uproject" "E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\ControliePracticeEditor\Development\ControliePracticeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for ControliePracticeEditor in 12.7068838 seconds
+  Building 5 actions with 8 processes...
+    [1/5] ControliePractice.init.gen.cpp
+    [2/5] My_AIS_Character.cpp
+    [3/5] My_AIS_Character.gen.cpp
+    [4/5] UE4Editor-ControliePractice-5136.lib
+       Creating library E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\UE4Editor\Development\ControliePractice\UE4Editor-ControliePractice-5136.lib and object E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\UE4Editor\Development\ControliePractice\UE4Editor-ControliePractice-5136.exp
+    [5/5] UE4Editor-ControliePractice-5136.dll
+       Creating library E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\UE4Editor\Development\ControliePractice\UE4Editor-ControliePractice-5136.suppressed.lib and object E:\controliegit\controliegame\ControliePractice\Intermediate\Build\Win64\UE4Editor\Development\ControliePractice\UE4Editor-ControliePractice-5136.suppressed.exp
+  Deploying ControliePracticeEditor Win64 Development...
+  Total build time: 23.38 seconds (Parallel executor: 2.16 seconds)
