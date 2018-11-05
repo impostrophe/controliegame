@@ -1,0 +1,1511 @@
+﻿Log file open, 11/03/18 07:49:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ControliePractice
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.500561
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin DatasmithMDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogStreaming: Display: Took  0.718s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD FX(tm)-8350 Eight-Core Processor           , GPU: AMD Radeon R9 200 Series
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: E:/Unreal_Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.196s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.03-12.50.00:422][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.03-12.50.00:422][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.03-12.50.00:538][  0]LogHAL: Display: Platform has ~ 16 GB [17075896320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.03-12.50.00:574][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.03-12.50.00:574][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.03-12.50.00:653][  0]LogInit: Computer: BLACKWIDOW-PC
+[2018.11.03-12.50.00:653][  0]LogInit: User: Rayray
+[2018.11.03-12.50.00:653][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.03-12.50.00:653][  0]LogInit: High frequency timer resolution =3.919290 MHz
+[2018.11.03-12.50.00:654][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.03-12.50.00:654][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.03-12.50.00:654][  0]LogMemory: Process Physical Memory: 104.95 MB used, 104.95 MB peak
+[2018.11.03-12.50.00:654][  0]LogMemory: Process Virtual Memory: 90.21 MB used, 90.21 MB peak
+[2018.11.03-12.50.00:654][  0]LogMemory: Physical Memory: 5510.95 MB used,  10773.90 MB free, 16284.84 MB total
+[2018.11.03-12.50.00:654][  0]LogMemory: Virtual Memory: 4651.34 MB used,  10773.90 MB free, 134217728.00 MB total
+[2018.11.03-12.50.01:320][  0]LogInit: Using OS detected language (en-US).
+[2018.11.03-12.50.01:320][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.03-12.50.01:425][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.03-12.50.02:323][  0]LogStreaming: Display: Took  0.994s to InitEngineTextLocalization.
+[2018.11.03-12.50.02:335][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.03-12.50.03:128][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.03-12.50.03:128][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.03-12.50.14:208][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.11.03-12.50.14:208][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.03-12.50.14:307][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2018.11.03-12.50.14:307][  0]LogD3D11RHI:       4072/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.11.03-12.50.14:311][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.03-12.50.14:311][  0]LogD3D11RHI:       0/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.03-12.50.14:311][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.03-12.50.14:341][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.03-12.50.14:341][  0]LogD3D11RHI:     GPU DeviceId: 0x67b0 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.03-12.50.14:373][  0]LogWindows: EnumDisplayDevices:
+[2018.11.03-12.50.14:374][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2018.11.03-12.50.14:374][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2018.11.03-12.50.14:375][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.03-12.50.14:375][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.03-12.50.14:376][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.03-12.50.14:376][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.03-12.50.14:377][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2018.11.03-12.50.14:377][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2018.11.03-12.50.14:377][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:22.19.677.257, unified:22.19.677.257)
+[2018.11.03-12.50.14:377][  0]LogD3D11RHI:      Driver Date: 9-22-2017
+[2018.11.03-12.50.14:377][  0]LogRHI: Texture pool is 2850 MB (70% of 4072 MB)
+[2018.11.03-12.50.14:742][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.03-12.50.15:788][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.11.03-12.50.16:037][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../controliegit/controliegame/ControliePractice/Intermediate/Shaders/WorkingDirectory/17060/).
+[2018.11.03-12.50.16:037][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rayray/AppData/Local/Temp/UnrealShaderWorkingDir/C599D9D34BB86B629FB81389B0E6B547/'.
+[2018.11.03-12.50.17:293][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.03-12.50.17:387][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.03-12.50.17:436][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.03-12.50.17:485][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.03-12.50.17:592][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.03-12.50.17:708][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.03-12.50.17:826][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.03-12.50.17:893][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.03-12.50.17:968][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:238][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:238][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.03-12.50.18:277][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.03-12.50.18:506][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.03-12.50.18:506][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.03-12.50.18:582][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.03-12.50.18:582][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.03-12.50.18:614][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.03-12.50.18:640][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.03-12.50.18:686][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.03-12.50.18:739][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.03-12.50.18:765][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.03-12.50.18:765][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.03-12.50.19:554][  0]LogXGEController: Cleaning working directory: C:/Users/Rayray/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.03-12.50.19:555][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.03-12.50.19:555][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.03-12.50.19:555][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.03-12.50.23:361][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.03-12.50.23:685][  0]LogDerivedDataCache: Loaded boot cache 0.32s 73MB C:/Users/Rayray/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.03-12.50.23:685][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Rayray/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.03-12.50.23:685][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../controliegit/controliegame/ControliePractice/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.03-12.50.23:685][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.03-12.50.23:685][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../controliegit/controliegame/ControliePractice/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.03-12.50.23:685][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.03-12.50.23:770][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.03-12.50.23:783][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rayray/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.03-12.50.23:783][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.03-12.50.23:783][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.03-12.50.23:836][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.03-12.50.23:914][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.03-12.50.23:987][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.03-12.50.24:944][  0]LogAssetRegistry: FAssetRegistry took 0.0313 seconds to start up
+[2018.11.03-12.50.31:105][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.03-12.50.36:644][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.03-12.50.37:202][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.03-12.50.37:202][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.03-12.50.37:233][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.03-12.50.37:233][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.03-12.50.38:805][  0]LogNetVersion: ControliePractice 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2409719994)
+[2018.11.03-12.50.44:378][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.471260 seconds
+[2018.11.03-12.50.44:417][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.03-12.50.44:417][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.03-12.50.44:417][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.03-12.51.04:806][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.03-12.51.04:861][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.03-12.51.06:207][  0]SourceControl: Source control is disabled
+[2018.11.03-12.51.06:209][  0]SourceControl: Source control is disabled
+[2018.11.03-12.51.06:282][  0]SourceControl: Source control is disabled
+[2018.11.03-12.51.06:298][  0]SourceControl: Source control is disabled
+[2018.11.03-12.51.07:982][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.03-12.51.08:439][  0]LogOcInput: OculusInput pre-init called
+[2018.11.03-12.51.14:916][  0]LogEngine: Initializing Engine...
+[2018.11.03-12.51.15:015][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.11.03-12.51.15:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.03-12.51.15:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.03-12.51.15:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.03-12.51.15:056][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.03-12.51.15:876][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.03-12.51.16:289][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.03-12.51.16:437][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.03-12.51.16:497][  0]LogInit: FAudioDevice initialized.
+[2018.11.03-12.51.16:497][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.03-12.51.16:610][  0]LogDerivedDataCache: Saved boot cache 0.11s 73MB C:/Users/Rayray/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.03-12.51.16:633][  0]LogInit: Texture streaming: Enabled
+[2018.11.03-12.51.16:795][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.03-12.51.16:912][  0]LogInit: Transaction tracking system initialized
+[2018.11.03-12.51.17:344][  0]BlueprintLog: New page: Editor Load
+[2018.11.03-12.51.18:566][  0]LocalizationService: Localization service is disabled
+[2018.11.03-12.51.19:305][  0]LogLinker: Warning: Can't find file '/Game/SideScRolePlay/BluePrints/NewBlueprint'
+[2018.11.03-12.51.19:306][  0]LogLinker: Warning: Can't find file '/Game/SideScRolePlay/BluePrints/NewBlueprint'
+[2018.11.03-12.51.19:306][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScRolePlay/BluePrints/NewBlueprint.NewBlueprint_C'
+[2018.11.03-12.51.22:943][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.03-12.51.22:951][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Content/' took 0.05s
+[2018.11.03-12.51.22:951][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.03-12.51.22:971][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.03-12.51.22:971][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.03-12.51.22:971][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.03-12.51.22:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.03-12.51.22:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.03-12.51.27:973][  0]SourceControl: Source control is disabled
+[2018.11.03-12.51.28:004][  0]Cmd: MAP LOAD FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/ControlieLand.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.03-12.51.28:014][  0]LightingResults: New page: Lighting Build
+[2018.11.03-12.51.28:176][  0]MapCheck: New page: Map Check
+[2018.11.03-12.51.28:176][  0]LightingResults: New page: Lighting Build
+[2018.11.03-12.51.34:717][  0]LogBlueprint: Warning: [Compiler ControlieCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.11.03-12.51.34:726][  0]LogBlueprint: Warning: [Compiler ControlieCharacter] [0116.48] Compile of ControlieCharacter successful, but with 1 Warning(s) [in 25 ms] (/Game/Controlie/CameraCharacter/ControlieCharacter.ControlieCharacter)
+[2018.11.03-12.51.38:662][  0]LogAIModule: Creating AISystem for world ControlieLand
+[2018.11.03-12.51.40:116][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Controlie/Levels/Stream1) is flushing async loading
+[2018.11.03-12.51.40:116][  0]LogStreaming: Display: Flushing async loaders.
+[2018.11.03-12.51.40:336][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.03-12.51.40:629][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.03-12.51.40:779][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 149.776ms to complete.
+[2018.11.03-12.51.40:779][  0]LogFileHelpers: Loading map 'ControlieLand' took 12.793
+[2018.11.03-12.51.42:274][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.03-12.51.42:286][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.03-12.51.42:298][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.03-12.51.42:309][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.03-12.51.42:407][  0]LogCollectionManager: Loaded 0 collections in 0.001579 seconds
+[2018.11.03-12.51.42:557][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Saved/Collections/' took 0.01s
+[2018.11.03-12.51.42:557][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Content/Developers/Rayray/Collections/' took 0.01s
+[2018.11.03-12.51.42:557][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Content/Collections/' took 0.01s
+[2018.11.03-12.51.42:557][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.03-12.51.42:630][  0]LogContentBrowser: Native class hierarchy populated in 0.0491 seconds. Added 2631 classes and 633 folders.
+[2018.11.03-12.51.42:749][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.11.03-12.51.44:104][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.11.03-12.51.44:196][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.11.03-12.51.48:292][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.03-12.51.48:507][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ControliePractice
+[2018.11.03-12.51.48:507][  0]LogTemp: CWD: E:\Unreal_Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.03-12.51.48:507][  0]LogTemp: Initial Dir: E:\Unreal_Engine\UE_4.20
+[2018.11.03-12.51.48:507][  0]LogTemp: Env CWD: E:\Unreal_Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.03-12.51.48:507][  0]LogTemp: BranchPath = BLACKWIDOW-PC/E/Unreal_Engine/UE_4.20/Engine/Binaries --- GameBranchPath = BLACKWIDOW-PC/E/Unreal_Engine/UE_4.20/Engine/Binaries
+[2018.11.03-12.51.48:507][  0]LogTemp: MATCHED-Provision:,File:,Cert:
+[2018.11.03-12.51.48:591][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.11.03-12.51.48:591][  0]LogLoad: (Engine Initialization) Total time: 130.35 seconds
+[2018.11.03-12.51.48:591][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.03-12.51.48:910][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.03-12.51.49:054][  0]LogRenderer: Reallocating scene render targets to support 64x64 Format 26 NumSamples 1 (Frame:1).
+[2018.11.03-12.51.49:054][  0]LogSlate: Took 0.036574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.03-12.51.49:133][  0]LogSlate: Took 0.056441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.03-12.51.49:183][  0]LogSlate: Took 0.019438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.03-12.51.49:806][  0]LogRenderer: Reallocating scene render targets to support 1184x536 Format 26 NumSamples 1 (Frame:1).
+[2018.11.03-12.51.49:806][  0]LogSlate: Took 0.021188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.03-12.51.50:179][  2]LogSlate: Took 0.000439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.03-12.51.50:234][  4]LogAssetRegistry: Asset discovery search completed in 85.3130 seconds
+[2018.11.03-12.51.50:237][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.03-12.51.50:237][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2018.11.03-12.54.44:100][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.03-12.55.03:821][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.03-22.41.16:545][637]LogAssetEditorManager: Opening Asset editor for EnvQuery /Game/Controlie/AIS/EQSQueries/EQS_Query_FindGoodFood.EQS_Query_FindGoodFood
+[2018.11.03-22.41.16:736][637]LogSlate: Took 0.042660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.03-22.41.29:590][154]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/AIS/EQSGens/ItemsOfStat.ItemsOfStat
+[2018.11.03-22.41.30:284][154]LogClass: Warning: Enum '/Game/AdvancedMagicFX13/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.11.03-22.41.30:332][154]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.11.03-22.41.31:753][155]LogSlate: Took 0.017819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.03-22.41.57:904][205]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/AIS/EQSGens/ControlieLocationsOfStat.ControlieLocationsOfStat
+[2018.11.03-22.42.01:761][510]LogSlate: Window 'ControlieLocationsOfStat' being destroyed
+[2018.11.04-00.11.51:266][700]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/Blueprints/BP_FunDestination.BP_FunDestination
+[2018.11.04-00.12.55:484][754]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/AIS/AIS_Character.AIS_Character
+[2018.11.04-00.13.11:896][437]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/AIS/AIS_AICon.AIS_AICon
+[2018.11.04-19.20.37:766][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.21.11:836][124]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.04-19.21.15:520][501]LogAIModule: Creating AISystem for world NewWorld
+[2018.11.04-19.21.15:524][501]LogAssetEditorManager: Opening Asset editor for World /Game/Controlie/Levels/NewWorld.NewWorld
+[2018.11.04-19.21.15:711][501]Cmd: MAP LOAD FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.04-19.21.15:711][501]LightingResults: New page: Lighting Build
+[2018.11.04-19.21.15:712][501]LoadErrors: New page: Loading map: NewWorld.umap
+[2018.11.04-19.21.15:722][501]MapCheck: New page: Map Check
+[2018.11.04-19.21.15:722][501]LightingResults: New page: Lighting Build
+[2018.11.04-19.21.16:018][501]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.04-19.21.16:258][501]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.04-19.21.17:485][501]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,226.683ms to complete.
+[2018.11.04-19.21.17:493][501]LogFileHelpers: Loading map 'NewWorld' took 1.816
+[2018.11.04-19.21.22:828][886]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.04-19.21.24:857][112]LogAIModule: Creating AISystem for world Stream1
+[2018.11.04-19.21.24:860][112]LogAssetEditorManager: Opening Asset editor for World /Game/Controlie/Levels/Stream1.Stream1
+[2018.11.04-19.21.24:994][112]Cmd: MAP LOAD FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Stream1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.04-19.21.24:994][112]LightingResults: New page: Lighting Build
+[2018.11.04-19.21.24:995][112]LoadErrors: New page: Loading map: Stream1.umap
+[2018.11.04-19.21.24:995][112]MapCheck: New page: Map Check
+[2018.11.04-19.21.24:995][112]LightingResults: New page: Lighting Build
+[2018.11.04-19.21.25:234][112]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.04-19.21.25:464][112]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.04-19.21.25:621][112]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 156.393ms to complete.
+[2018.11.04-19.21.25:624][112]LogFileHelpers: Loading map 'Stream1' took 0.632
+[2018.11.04-19.21.27:976][374]LogAIModule: Creating AISystem for world NewWorld
+[2018.11.04-19.21.29:374][374]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.04-19.21.34:036][841]LogAIModule: Creating AISystem for world AISLevel
+[2018.11.04-19.21.34:051][841]LogAssetEditorManager: Opening Asset editor for World /Game/Controlie/Levels/AISLevel.AISLevel
+[2018.11.04-19.21.34:177][841]Cmd: MAP LOAD FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/AISLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.04-19.21.34:178][841]LightingResults: New page: Lighting Build
+[2018.11.04-19.21.34:178][841]LoadErrors: New page: Loading map: AISLevel.umap
+[2018.11.04-19.21.34:179][841]MapCheck: New page: Map Check
+[2018.11.04-19.21.34:179][841]LightingResults: New page: Lighting Build
+[2018.11.04-19.21.34:454][841]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.04-19.21.34:676][841]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.04-19.21.34:833][841]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 157.254ms to complete.
+[2018.11.04-19.21.34:837][841]LogFileHelpers: Loading map 'AISLevel' took 0.661
+[2018.11.04-19.21.53:884][937]BlueprintLog: New page: Compile AIS_AICon
+[2018.11.04-19.21.54:275][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_AICon" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset" SILENT=true
+[2018.11.04-19.21.54:333][937]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_AICon5A6DCAE04555E64A30CF518112ECD5E9.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset'
+[2018.11.04-19.21.56:136][128]LogTemp: Repeating last play command: Simulate
+[2018.11.04-19.21.56:210][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.11.04-19.21.56:210][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-19.21.56:226][128]PIE: New page: SIE session: AISLevel (Nov 4, 2018, 7:21:56 AM)
+[2018.11.04-19.21.56:226][128]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_AISLevel
+[2018.11.04-19.21.56:236][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010287s)
+[2018.11.04-19.21.56:237][128]LogAIModule: Creating AISystem for world AISLevel
+[2018.11.04-19.21.56:237][128]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2018.11.04-19.21.56:237][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/AISLevel.AISLevel to /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel (0.011492s)
+[2018.11.04-19.21.56:377][128]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-19.21.56:395][128]LogInit: FAudioDevice initialized.
+[2018.11.04-19.21.56:438][128]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.04-19.21.56:445][128]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel up for play (max tick rate 0) at 2018.11.04-13.21.56
+[2018.11.04-19.21.56:447][128]LogWorld: Bringing up level for play took: 0.006950
+[2018.11.04-19.21.56:523][128]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 10 classes and 0 folders.
+[2018.11.04-19.21.56:530][128]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_AISLevel 0.823
+[2018.11.04-19.21.56:645][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.11.04-19.22.00:314][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.04-19.22.01:924][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.22.04:913][756]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Controlie/AIS/BehaviorTrees/AIS_BT.AIS_BT
+[2018.11.04-19.22.14:347][397]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.14:348][397]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.14:348][397]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.14:348][397]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.14:598][417]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.14:599][417]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.14:599][417]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.14:599][417]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.14:853][438]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.14:853][438]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.14:853][438]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.14:854][438]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:108][459]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:108][459]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:108][459]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:108][459]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:367][479]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:367][479]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:367][479]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:367][479]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:626][499]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:627][499]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:627][499]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:627][499]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:885][517]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:886][517]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:886][517]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.15:886][517]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:144][536]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:144][536]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:144][536]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:144][536]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:432][555]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:432][555]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:432][555]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:433][555]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:686][568]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:687][568]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:687][568]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:687][568]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:952][583]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:952][583]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:952][583]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.16:952][583]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.17:213][597]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.17:213][597]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.17:213][597]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.17:213][597]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.17:465][611]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.17:465][611]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.17:466][611]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.17:466][611]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.17:717][625]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.17:718][625]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.17:718][625]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.17:718][625]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.17:802][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.11.04-19.22.17:806][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.22.17:852][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.04-19.22.17:852][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.11.04-19.22.17:972][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.22.18:002][632]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.11.04-19.22.18:546][674]LogTemp: Repeating last play command: Simulate
+[2018.11.04-19.22.18:609][674]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.11.04-19.22.18:613][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-19.22.18:613][674]PIE: New page: SIE session: AISLevel (Nov 4, 2018, 7:22:18 AM)
+[2018.11.04-19.22.18:613][674]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_AISLevel
+[2018.11.04-19.22.18:622][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008715s)
+[2018.11.04-19.22.18:622][674]LogAIModule: Creating AISystem for world AISLevel
+[2018.11.04-19.22.18:623][674]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2018.11.04-19.22.18:623][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/AISLevel.AISLevel to /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel (0.009754s)
+[2018.11.04-19.22.18:783][674]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-19.22.18:799][674]LogInit: FAudioDevice initialized.
+[2018.11.04-19.22.18:828][674]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.04-19.22.18:834][674]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel up for play (max tick rate 0) at 2018.11.04-13.22.18
+[2018.11.04-19.22.18:836][674]LogWorld: Bringing up level for play took: 0.006747
+[2018.11.04-19.22.18:853][674]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_AISLevel 1.147
+[2018.11.04-19.22.18:857][674]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.11.04-19.22.21:975][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.22.35:704][846]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.35:704][846]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.35:704][846]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.35:705][846]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.35:964][864]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.35:964][864]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.35:964][864]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.35:964][864]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.36:215][881]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.36:215][881]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.36:215][881]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.36:215][881]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.36:477][899]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.36:477][899]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.36:477][899]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.36:478][899]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.36:740][917]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.36:741][917]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.36:741][917]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.36:741][917]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:003][935]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:004][935]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:004][935]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:004][935]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:255][952]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:255][952]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:256][952]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:256][952]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:507][969]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:507][969]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:507][969]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:507][969]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:763][986]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:763][986]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:763][986]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.37:763][986]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:018][  3]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:018][  3]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:018][  3]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:019][  3]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:276][ 20]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:277][ 20]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:277][ 20]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:277][ 20]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:534][ 37]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:534][ 37]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:534][ 37]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:534][ 37]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:793][ 54]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:793][ 54]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:793][ 54]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.38:794][ 54]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:051][ 71]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:051][ 71]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:051][ 71]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:052][ 71]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:309][ 88]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:309][ 88]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:309][ 88]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:309][ 88]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:566][105]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:566][105]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:567][105]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:567][105]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:825][122]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:825][122]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:826][122]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.39:826][122]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:084][139]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:084][139]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:084][139]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:084][139]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:338][155]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:338][155]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:338][155]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:339][155]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:597][172]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:597][172]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:597][172]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:597][172]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:854][189]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:854][189]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:854][189]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.40:854][189]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:114][206]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:115][206]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:115][206]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:115][206]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:376][223]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:376][223]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:376][223]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:376][223]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:632][240]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:632][240]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:632][240]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:633][240]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:889][257]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:889][257]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:890][257]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.41:890][257]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:149][274]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:149][274]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:150][274]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:150][274]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:407][291]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:407][291]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:407][291]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:407][291]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:669][308]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:669][308]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:669][308]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:669][308]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:930][325]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:930][325]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:930][325]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.42:930][325]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:192][342]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:192][342]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:192][342]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:192][342]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:452][359]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:452][359]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:452][359]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:453][359]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:715][376]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:715][376]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:715][376]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:716][376]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:983][393]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:983][393]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:983][393]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.43:984][393]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.44:241][408]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.44:242][408]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.44:242][408]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.44:242][408]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.44:501][424]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.44:501][424]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.44:501][424]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.44:501][424]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.44:756][439]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.44:756][439]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.44:756][439]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.44:756][439]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:018][455]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:018][455]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:018][455]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:018][455]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:277][470]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:277][470]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:277][470]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:277][470]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:537][485]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:537][485]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:538][485]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:538][485]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:794][497]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:795][497]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:795][497]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.45:795][497]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:044][513]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:045][513]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:045][513]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:045][513]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:299][528]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:299][528]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:299][528]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:299][528]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:561][544]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:561][544]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:561][544]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:561][544]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:821][561]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:821][561]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:821][561]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.46:821][561]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:091][576]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:092][576]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:092][576]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:092][576]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:360][588]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:361][588]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:361][588]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:361][588]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:617][602]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:617][602]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:617][602]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:617][602]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:878][618]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:878][618]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:878][618]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.47:879][618]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:137][633]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:138][633]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:138][633]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:138][633]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:393][649]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:393][649]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:393][649]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:393][649]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:643][665]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:643][665]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:643][665]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:644][665]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:910][682]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:910][682]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:910][682]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.48:910][682]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.49:173][699]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.49:173][699]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.49:174][699]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.49:174][699]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.49:425][715]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.49:425][715]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.49:425][715]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.49:426][715]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.49:682][731]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.49:682][731]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.49:682][731]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.49:683][731]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.22.49:871][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.22.49:952][749]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.11.04-19.22.49:957][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.22.49:996][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.04-19.22.49:997][749]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.11.04-19.22.50:136][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.22.50:169][750]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.11.04-19.22.55:328][158]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/AIS/BaseClasses/GoodFoodClass.GoodFoodClass
+[2018.11.04-19.23.26:075][563]BlueprintLog: New page: Compile GoodFoodClass
+[2018.11.04-19.23.26:615][563]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/GoodFoodClass31937C114400CEB1ABA41C9708527C58.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/BaseClasses/GoodFoodClass.uasset'
+[2018.11.04-19.23.29:258][756]LogTemp: Repeating last play command: Simulate
+[2018.11.04-19.23.29:326][756]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.11.04-19.23.29:330][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-19.23.29:330][756]PIE: New page: SIE session: AISLevel (Nov 4, 2018, 7:23:29 AM)
+[2018.11.04-19.23.29:330][756]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_AISLevel
+[2018.11.04-19.23.29:339][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009041s)
+[2018.11.04-19.23.29:340][756]LogAIModule: Creating AISystem for world AISLevel
+[2018.11.04-19.23.29:340][756]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2018.11.04-19.23.29:340][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/AISLevel.AISLevel to /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel (0.010082s)
+[2018.11.04-19.23.29:500][756]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-19.23.29:516][756]LogInit: FAudioDevice initialized.
+[2018.11.04-19.23.29:549][756]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.04-19.23.29:555][756]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel up for play (max tick rate 0) at 2018.11.04-13.23.29
+[2018.11.04-19.23.29:557][756]LogWorld: Bringing up level for play took: 0.006810
+[2018.11.04-19.23.29:574][756]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_AISLevel -0.133
+[2018.11.04-19.23.29:577][756]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.11.04-19.23.32:702][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.23.41:809][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.04-19.23.46:392][778]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.46:392][778]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.46:393][778]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.46:393][778]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.46:460][782]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_8.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.46:460][782]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_8.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.46:651][793]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.46:651][793]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.46:651][793]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.46:651][793]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.46:668][794]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_4.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.46:668][794]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_4.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.46:901][808]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.46:902][808]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.46:902][808]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.46:902][808]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:174][820]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:174][820]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:174][820]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:174][820]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:434][831]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:434][831]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:434][831]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:434][831]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:460][832]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_14.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.47:460][832]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_14.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.47:615][839]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.04-19.23.47:709][841]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:709][841]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:709][841]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:709][841]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:979][854]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:979][854]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:979][854]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.47:979][854]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.47:980][854]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.47:980][854]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.48:246][867]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.48:247][867]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.48:247][867]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.48:247][867]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.48:314][870]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_9.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.48:314][870]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_9.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.48:500][881]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.48:500][881]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.48:500][881]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.48:501][881]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.48:755][896]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.48:755][896]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.48:755][896]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.48:755][896]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:019][911]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:019][911]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:019][911]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:019][911]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:228][923]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	Task_Use_Item_C /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel:PersistentLevel.AIS_AICon_C_0.BTComponent.Task_Use_Item_C_0
+	Function /Game/Controlie/AIS/Tasks/Task_Use_Item.Task_Use_Item_C:ExecuteUbergraph_Task_Use_Item:0082
+[2018.11.04-19.23.49:228][923]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  Task_Use_Item Function:  Execute Ubergraph Task Use Item Graph:  EventGraph Node:  LineTraceByChannel
+[2018.11.04-19.23.49:278][926]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:279][926]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:279][926]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:279][926]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:542][941]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:542][941]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:542][941]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:542][941]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:613][945]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_15.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.49:613][945]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_15.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.49:804][956]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:804][956]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:804][956]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.49:804][956]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:064][968]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:064][968]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:064][968]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:064][968]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:334][979]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:335][979]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:335][979]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:335][979]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:590][990]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:590][990]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:590][990]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:590][990]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:737][996]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	Task_Use_Item_C /Game/Controlie/Levels/UEDPIE_0_AISLevel.AISLevel:PersistentLevel.AIS_AICon_C_1.BTComponent.Task_Use_Item_C_0
+	Function /Game/Controlie/AIS/Tasks/Task_Use_Item.Task_Use_Item_C:ExecuteUbergraph_Task_Use_Item:0082
+[2018.11.04-19.23.50:737][996]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  Task_Use_Item Function:  Execute Ubergraph Task Use Item Graph:  EventGraph Node:  LineTraceByChannel
+[2018.11.04-19.23.50:844][  1]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:844][  1]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:844][  1]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.50:844][  1]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:093][ 13]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:093][ 13]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:094][ 13]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:094][ 13]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:351][ 27]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:351][ 27]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:352][ 27]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:352][ 27]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:603][ 40]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:603][ 40]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:603][ 40]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:603][ 40]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:854][ 52]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:854][ 52]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:854][ 52]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.51:854][ 52]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:110][ 64]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:111][ 64]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:111][ 64]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:111][ 64]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:362][ 77]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:362][ 77]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:362][ 77]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:362][ 77]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:598][ 89]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_6.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.52:599][ 89]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_6.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.52:623][ 90]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:623][ 90]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:623][ 90]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:624][ 90]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:689][ 93]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_5.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.52:689][ 93]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_5.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.52:881][102]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:881][102]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:881][102]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.52:881][102]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:131][113]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:131][113]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:131][113]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:131][113]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:388][128]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:388][128]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:388][128]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:388][128]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:648][143]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:648][143]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:648][143]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:649][143]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:908][158]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:908][158]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:909][158]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:909][158]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.53:945][160]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_12.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.53:945][160]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_12.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.54:015][164]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_11.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.54:015][164]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_11.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.54:170][173]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:170][173]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:170][173]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_23.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.54:170][173]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_23.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.54:171][173]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:171][173]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:421][187]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:422][187]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:422][187]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:422][187]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:677][201]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:677][201]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:677][201]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:677][201]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:933][216]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:933][216]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:933][216]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.54:934][216]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:198][230]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:198][230]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:198][230]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:198][230]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:438][243]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_22.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.55:438][243]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_22.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.55:455][244]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:456][244]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:456][244]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:456][244]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:511][247]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_10.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.55:511][247]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_10.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.55:715][258]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:715][258]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:715][258]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:715][258]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:978][271]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:978][271]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:978][271]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:978][271]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.55:995][272]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_2.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.55:995][272]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_2.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.56:239][282]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.56:240][282]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.56:240][282]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.56:240][282]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.56:495][292]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.56:495][292]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.56:495][292]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.56:495][292]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.56:748][303]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.56:748][303]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.56:748][303]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.56:748][303]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.56:982][313]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_13.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.56:982][313]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_13.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.23.57:000][314]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:000][314]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:000][314]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:001][314]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:250][327]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:250][327]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:251][327]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:251][327]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:514][341]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:514][341]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:514][341]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:515][341]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:780][356]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:780][356]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:780][356]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:780][356]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.23.57:903][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.23.57:996][369]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.11.04-19.23.58:001][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.23.58:044][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.04-19.23.58:045][369]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel' with GeneratedClass '/Game/Controlie/Levels/AISLevel.AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/AISLevel.AISLevel:PersistentLevel.AISLevel'
+[2018.11.04-19.23.58:193][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.23.58:244][370]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.11.04-19.24.27:451][787]LogAIModule: Creating AISystem for world AIS_ControlieLevel
+[2018.11.04-19.24.28:057][787]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/Controlie_AISLevelD2B2FF604FE8CE03AC88ACB81339BCAD.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel.umap'
+[2018.11.04-19.24.28:062][787]LogFileHelpers: Saving map 'Controlie_AISLevel' took 0.246
+[2018.11.04-19.24.28:063][787]LogMetaData: Removing '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' ref from Metadata '/Game/Controlie/Levels/AIS_ControlieLevel.PackageMetaData'
+[2018.11.04-19.24.28:063][787]LogMetaData: Removing '/Game/Controlie/Levels/Controlie_AISLevel.SKEL_Controlie_AISLevel_C' ref from Metadata '/Game/Controlie/Levels/AIS_ControlieLevel.PackageMetaData'
+[2018.11.04-19.24.28:117][787]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/Controlie_AISLevel_BuiltData090DD5F34085423DBF2778B23243CDE8.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel_BuiltData.uasset'
+[2018.11.04-19.24.28:693][787]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/Controlie_AISLevelAEDE90294659415C998DECB201BD59C7.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel.umap'
+[2018.11.04-19.24.28:707][787]LogFileHelpers: Saving map 'Controlie_AISLevel' took 0.583
+[2018.11.04-19.24.29:596][788]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Controlie/Levels/Controlie_AISLevel.
+[2018.11.04-19.24.29:600][788]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Controlie/Levels/Controlie_AISLevel.
+[2018.11.04-19.24.30:983][889]LogAssetEditorManager: Opening Asset editor for World /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel
+[2018.11.04-19.24.31:116][889]Cmd: MAP LOAD FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.04-19.24.31:117][889]LightingResults: New page: Lighting Build
+[2018.11.04-19.24.31:117][889]LoadErrors: New page: Loading map: Controlie_AISLevel.umap
+[2018.11.04-19.24.31:118][889]MapCheck: New page: Map Check
+[2018.11.04-19.24.31:119][889]LightingResults: New page: Lighting Build
+[2018.11.04-19.24.31:375][889]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.04-19.24.31:619][889]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.04-19.24.31:776][889]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 156.913ms to complete.
+[2018.11.04-19.24.31:777][889]LogFileHelpers: Loading map 'Controlie_AISLevel' took 0.662
+[2018.11.04-19.24.33:375][  4]LogTemp: Repeating last play command: Simulate
+[2018.11.04-19.24.33:459][  4]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.24.33:462][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-19.24.33:463][  4]PIE: New page: SIE session: Controlie_AISLevel (Nov 4, 2018, 7:24:33 AM)
+[2018.11.04-19.24.33:463][  4]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel
+[2018.11.04-19.24.33:469][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006278s)
+[2018.11.04-19.24.33:470][  4]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.04-19.24.33:470][  4]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2018.11.04-19.24.33:470][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel to /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel (0.007256s)
+[2018.11.04-19.24.33:631][  4]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-19.24.33:647][  4]LogInit: FAudioDevice initialized.
+[2018.11.04-19.24.33:682][  4]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.04-19.24.33:685][  4]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel up for play (max tick rate 0) at 2018.11.04-13.24.33
+[2018.11.04-19.24.33:685][  4]LogWorld: Bringing up level for play took: 0.002438
+[2018.11.04-19.24.33:702][  4]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel -0.005
+[2018.11.04-19.24.33:705][  4]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.24.34:481][ 45]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.04-19.24.35:098][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.24.47:278][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.24.47:359][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.24.47:364][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.24.47:409][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.04-19.24.47:410][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.24.47:542][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.24.47:574][997]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.11.04-19.24.55:412][689]BlueprintLog: New page: Compile AIS_AICon
+[2018.11.04-19.24.55:785][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_AICon" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset" SILENT=true
+[2018.11.04-19.24.55:833][689]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_AICon494966904A6A1A1CFCA5ED803428C844.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset'
+[2018.11.04-19.24.57:608][821]LogTemp: Repeating last play command: Simulate
+[2018.11.04-19.24.57:673][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.24.57:677][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-19.24.57:677][821]PIE: New page: SIE session: Controlie_AISLevel (Nov 4, 2018, 7:24:57 AM)
+[2018.11.04-19.24.57:677][821]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel
+[2018.11.04-19.24.57:682][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005837s)
+[2018.11.04-19.24.57:682][821]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.04-19.24.57:683][821]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2018.11.04-19.24.57:683][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel to /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel (0.006806s)
+[2018.11.04-19.24.57:835][821]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-19.24.57:851][821]LogInit: FAudioDevice initialized.
+[2018.11.04-19.24.57:882][821]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.04-19.24.57:885][821]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel up for play (max tick rate 0) at 2018.11.04-13.24.57
+[2018.11.04-19.24.57:885][821]LogWorld: Bringing up level for play took: 0.002480
+[2018.11.04-19.24.57:902][821]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel 0.195
+[2018.11.04-19.24.57:905][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.24.58:289][841]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.04-19.24.58:754][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.25.14:691][ 33]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.14:953][ 52]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.15:203][ 70]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.15:457][ 88]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.15:718][107]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.15:719][107]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_5.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.15:719][107]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_5.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.15:968][125]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.16:232][144]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.16:494][163]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.16:744][181]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.16:994][199]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.17:249][217]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.17:503][235]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.17:757][253]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.17:771][254]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_10.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.17:772][254]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_10.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.18:010][271]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.18:260][289]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.18:523][308]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.18:774][326]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.19:027][344]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.19:282][362]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.19:368][368]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_7.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.19:368][368]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_7.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.19:534][380]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.19:786][398]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.20:037][416]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.20:294][433]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.20:550][450]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.20:803][467]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.20:970][478]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_0.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.20:970][478]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_0.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.21:053][484]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.21:310][502]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.21:572][521]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.21:824][539]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.22:075][557]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.22:329][575]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.22:580][593]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.22:837][611]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.23:092][629]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.23:355][644]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.23:607][659]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.23:871][675]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.24:129][690]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.24:392][708]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.25.24:533][718]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_16.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.24:533][718]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_16.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.24:644][726]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.24:895][744]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.25:148][762]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.25:404][780]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.25:725][793]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.25:979][811]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.26:036][815]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_9.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.26:036][815]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_9.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.26:232][829]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.26:484][847]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.26:736][865]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.27:002][882]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.27:253][894]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.27:456][905]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_2.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.27:456][905]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_2.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.27:510][909]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.27:761][927]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.28:027][945]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.28:292][958]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.28:556][973]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.28:819][990]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.29:071][  8]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.29:156][ 14]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_3.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.29:156][ 14]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_3.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.29:341][ 23]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.29:594][ 41]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.29:846][ 59]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.30:098][ 77]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.30:355][ 95]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.30:616][112]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.30:884][129]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.31:146][142]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.31:409][157]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.31:665][170]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.31:927][183]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.32:183][196]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.32:442][213]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.32:700][228]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 1
+[2018.11.04-19.25.32:715][229]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_13.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.32:716][229]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_13.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.25.43:980][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.25.44:074][  0]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.25.44:079][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.25.44:128][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.04-19.25.44:128][  0]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.25.44:259][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.25.44:312][  1]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.11.04-19.25.45:517][ 90]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner3)
+[2018.11.04-19.25.49:984][376]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner5)
+[2018.11.04-19.25.51:398][468]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner4)
+[2018.11.04-19.25.59:487][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.25.59:556][ 30]LogTemp: Repeating last play command: Simulate
+[2018.11.04-19.25.59:623][ 30]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.25.59:627][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-19.25.59:627][ 30]PIE: New page: SIE session: Controlie_AISLevel (Nov 4, 2018, 7:25:59 AM)
+[2018.11.04-19.25.59:627][ 30]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel
+[2018.11.04-19.25.59:633][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006110s)
+[2018.11.04-19.25.59:634][ 30]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.04-19.25.59:634][ 30]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2018.11.04-19.25.59:634][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel to /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel (0.007182s)
+[2018.11.04-19.25.59:785][ 30]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-19.25.59:801][ 30]LogInit: FAudioDevice initialized.
+[2018.11.04-19.25.59:835][ 30]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.04-19.25.59:838][ 30]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel up for play (max tick rate 0) at 2018.11.04-13.25.59
+[2018.11.04-19.25.59:839][ 30]LogWorld: Bringing up level for play took: 0.002470
+[2018.11.04-19.25.59:855][ 30]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel 0.147
+[2018.11.04-19.25.59:879][ 30]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.26.00:229][ 49]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.04-19.26.00:520][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.26.11:268][826]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.26.11:272][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.26.11:320][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.04-19.26.11:321][826]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.26.11:447][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.26.11:486][827]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.11.04-19.26.12:100][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.04-19.26.12:674][909]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner3)
+[2018.11.04-19.26.14:470][ 29]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner4)
+[2018.11.04-19.26.15:902][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.26.18:451][257]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/Controlie_AISLevel0681057E4953E77BC680B0AA718B0F27.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel.umap'
+[2018.11.04-19.26.18:626][257]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/Controlie_AISLevel_BuiltDataE313AB664895D952B95918B0F555F31E.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel_BuiltData.uasset'
+[2018.11.04-19.26.30:381][ 34]LogTemp: Repeating last play command: Simulate
+[2018.11.04-19.26.30:446][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.26.30:450][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-19.26.30:450][ 34]PIE: New page: SIE session: Controlie_AISLevel (Nov 4, 2018, 7:26:30 AM)
+[2018.11.04-19.26.30:450][ 34]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel
+[2018.11.04-19.26.30:457][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006608s)
+[2018.11.04-19.26.30:457][ 34]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.04-19.26.30:458][ 34]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2018.11.04-19.26.30:458][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel to /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel (0.007673s)
+[2018.11.04-19.26.30:616][ 34]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-19.26.30:632][ 34]LogInit: FAudioDevice initialized.
+[2018.11.04-19.26.30:663][ 34]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.04-19.26.30:666][ 34]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel up for play (max tick rate 0) at 2018.11.04-13.26.30
+[2018.11.04-19.26.30:667][ 34]LogWorld: Bringing up level for play took: 0.002588
+[2018.11.04-19.26.30:683][ 34]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel 0.976
+[2018.11.04-19.26.30:711][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.26.33:793][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.26.41:615][783]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.11.04-19.26.41:679][783]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.04-19.26.42:257][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.04-19.26.48:196][139]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.26.48:327][146]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner5)
+[2018.11.04-19.26.48:463][149]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.26.48:717][164]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.26.48:989][175]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.26.49:157][183]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_2.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.26.49:157][183]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_2.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.26.49:256][187]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.26.49:528][198]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.26.49:786][209]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.26.50:048][225]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.26.50:307][239]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.26.50:558][254]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.26.50:822][270]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.26.51:088][285]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.26.51:289][297]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.26.51:289][297]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.26.55:680][547]LogEditorViewport: Clicking on Actor (LMB): PlantFoodItem_C (PlantFoodItem16)
+[2018.11.04-19.26.56:892][612]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner3)
+[2018.11.04-19.27.00:824][801]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner5)
+[2018.11.04-19.27.03:228][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.04-19.27.03:945][956]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner4)
+[2018.11.04-19.27.08:195][151]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.08:468][166]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner3)
+[2018.11.04-19.27.08:500][166]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.08:721][175]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.08:974][185]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.09:242][197]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.09:242][197]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_16.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.09:242][197]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_16.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.14:483][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.27.14:489][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.27.14:535][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.04-19.27.14:535][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.27.14:670][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.27.14:723][476]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.11.04-19.27.15:391][519]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner3)
+[2018.11.04-19.27.16:882][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.27.25:058][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.04-19.27.26:113][182]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner3)
+[2018.11.04-19.27.27:846][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.27.28:354][294]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/Controlie_AISLevelA5E563AD4469A398C3F69DA4CA88087B.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel.umap'
+[2018.11.04-19.27.28:490][294]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/Controlie_AISLevel_BuiltDataBB57A8C1409D7DEAE2FE2BB84D512F9C.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel_BuiltData.uasset'
+[2018.11.04-19.27.28:865][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.27.28:913][320]LogTemp: Repeating last play command: Simulate
+[2018.11.04-19.27.28:977][320]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.27.28:981][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-19.27.28:981][320]PIE: New page: SIE session: Controlie_AISLevel (Nov 4, 2018, 7:27:28 AM)
+[2018.11.04-19.27.28:981][320]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel
+[2018.11.04-19.27.28:987][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006007s)
+[2018.11.04-19.27.28:988][320]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.04-19.27.28:988][320]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2018.11.04-19.27.28:988][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel to /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel (0.007010s)
+[2018.11.04-19.27.29:159][320]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-19.27.29:175][320]LogInit: FAudioDevice initialized.
+[2018.11.04-19.27.29:206][320]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.04-19.27.29:209][320]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel up for play (max tick rate 0) at 2018.11.04-13.27.29
+[2018.11.04-19.27.29:210][320]LogWorld: Bringing up level for play took: 0.002495
+[2018.11.04-19.27.29:226][320]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel -0.481
+[2018.11.04-19.27.29:251][320]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.27.30:732][395]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.04-19.27.31:132][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.27.46:070][453]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.46:325][471]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.46:575][489]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.46:834][507]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.47:093][525]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.47:355][543]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.47:608][559]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.47:859][576]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.48:119][591]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.48:380][608]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.48:631][625]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.48:891][638]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.49:149][654]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.49:265][662]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_4.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.49:265][662]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_4.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.49:408][672]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.49:665][690]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.49:922][708]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.50:178][726]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.50:387][740]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_9.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.50:387][740]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_9.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.50:429][743]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.50:687][758]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.50:940][771]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.51:201][788]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.51:459][806]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.51:674][820]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner5)
+[2018.11.04-19.27.51:762][821]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.52:019][834]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.52:217][842]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.52:218][842]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.52:269][844]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.52:527][855]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.52:795][870]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.53:049][882]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.53:310][898]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.53:574][914]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.53:838][930]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.54:104][946]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.54:357][957]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.54:613][971]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.54:763][978]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_0.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.54:763][978]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_0.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.54:869][983]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.55:124][996]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.55:375][  6]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.55:634][ 17]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.55:906][ 30]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.56:169][ 45]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.56:237][ 48]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_3.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.56:238][ 48]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_3.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.56:434][ 59]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.56:697][ 74]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner4)
+[2018.11.04-19.27.56:730][ 74]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.56:954][ 85]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.57:216][101]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.57:482][117]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.57:713][131]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_10.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.57:713][131]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_10.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.57:746][133]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.58:013][149]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.58:275][165]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.58:533][176]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.58:789][189]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.59:052][205]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.59:257][215]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_13.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.59:257][215]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_13.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.27.59:305][217]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.59:559][232]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.27.59:820][248]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.00:088][261]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.00:346][273]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.00:611][285]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.00:874][298]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.00:875][298]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_8.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.00:875][298]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_8.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.01:075][309]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner5)
+[2018.11.04-19.28.01:156][310]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.01:411][324]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.01:675][338]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.01:931][352]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.02:190][364]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.02:403][376]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_5.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.02:403][376]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_5.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.02:454][379]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.02:722][390]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.02:992][403]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.03:243][417]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.03:504][432]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.03:767][448]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.04:028][464]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.04:288][480]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.04:551][496]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.04:803][511]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.05:055][524]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.05:323][535]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.05:581][547]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.05:846][560]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.06:111][571]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.06:364][584]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.06:630][596]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.06:892][610]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.07:166][625]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.07:420][640]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.07:686][655]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.07:686][655]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_2.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.07:686][655]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_2.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.07:950][670]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.08:223][686]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.08:477][698]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.08:739][714]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.09:001][727]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.09:253][742]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.09:503][753]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.09:756][764]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.09:999][777]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_6.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.09:999][777]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_6.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.10:025][778]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.10:276][793]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.10:541][809]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.10:808][822]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.11:063][834]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.11:338][845]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.11:601][860]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.11:860][875]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.12:124][891]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.12:224][897]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_11.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.12:224][897]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_11.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.12:388][907]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.12:652][920]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.12:913][935]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.13:179][949]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.13:442][965]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.13:707][981]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.13:741][983]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_16.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.13:741][983]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_16.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.13:968][996]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.14:230][ 11]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.14:486][ 25]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.14:751][ 41]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.14:868][ 48]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_20.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.14:868][ 48]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_20.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.15:014][ 57]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.15:276][ 73]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.15:527][ 88]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.15:787][101]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.16:058][113]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.16:325][125]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.16:349][126]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_12.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.16:349][126]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_12.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.16:586][137]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.16:842][151]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.17:106][166]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.17:362][180]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.17:727][194]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.17:942][206]LogEditorViewport: Clicking on Actor (LMB): PlantFoodItem_C (PlantFoodItem18)
+[2018.11.04-19.28.18:004][207]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.18:068][210]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_18.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.18:068][210]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_18.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.18:264][223]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.18:533][236]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.18:755][250]LogEditorViewport: Clicking on Actor (LMB): AIS_Character_C (AIS_Character)
+[2018.11.04-19.28.18:901][251]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.19:152][262]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.19:403][272]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.19:655][285]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.19:837][295]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_22.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.19:838][295]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_22.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.19:910][299]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.20:161][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.04-19.28.20:258][313]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.20:513][323]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.20:778][334]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.21:038][347]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner5)
+[2018.11.04-19.28.21:071][347]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.21:291][357]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.21:554][370]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.21:826][381]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.22:081][393]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.22:351][405]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.22:592][417]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_17.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.22:592][417]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_17.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.04-19.28.22:618][418]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.22:882][431]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.23:136][444]LogBlueprintUserMessages: [Service_StamCheck_C_1] Service_StamCheck chosen stat: 2
+[2018.11.04-19.28.23:189][447]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.28.23:194][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.28.23:243][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.04-19.28.23:243][447]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.04-19.28.23:382][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-19.28.23:432][448]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.11.04-19.28.25:270][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.04-19.28.25:892][617]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner5)
+[2018.11.04-19.28.31:270][953]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner3)
+[2018.11.04-19.28.32:991][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.28.35:883][235]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner4)
+[2018.11.04-19.28.36:730][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.28.37:981][360]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner5)
+[2018.11.04-19.28.39:330][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.28.42:198][625]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner4)
+[2018.11.04-19.28.44:290][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.28.47:136][937]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner5)
+[2018.11.04-19.28.50:402][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.28.50:992][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.04-19.28.51:962][233]LogEditorViewport: Clicking on Actor (LMB): BP_StatSpawningActor_C (StamSpawner3)
+[2018.11.04-19.28.53:161][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.28.53:654][309]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/Controlie_AISLevel614BE26F4F4281E21649EA9CC064238D.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel.umap'
+[2018.11.04-19.28.53:790][309]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/Controlie_AISLevel_BuiltData9A8DF13B4EBF57967D9EE696F29104FC.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel_BuiltData.uasset'
+[2018.11.04-19.28.58:023][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-19.29.43:239][827]LogAssetEditorManager: Opening Asset editor for EnvQuery /Game/Controlie/AIS/EQSQueries/EQS_Query_FindGoodFood.EQS_Query_FindGoodFood
+[2018.11.04-19.31.13:571][920]BlueprintLog: New page: Compile ItemsOfStat
+[2018.11.04-19.31.13:924][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/EQSGens/ItemsOfStat" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/EQSGens/ItemsOfStat.uasset" SILENT=true
+[2018.11.04-19.31.13:990][920]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/ItemsOfStat6EA7BEA24E95D6FD5B66188A6D5CDCF0.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/EQSGens/ItemsOfStat.uasset'
+[2018.11.04-19.31.43:387][640]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/AIS/BP_StatSpawningActor.BP_StatSpawningActor
+[2018.11.04-19.32.19:751][120]LogUObjectArray: Warning: Empty slot
+[2018.11.04-19.32.20:023][120]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.272 s
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: 
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: Stack: 
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffae8e071f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffae8b40c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffae8b5b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffacf5e11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffacf5f060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffae77eda7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007fface1bec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007fface17f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffae8468204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffae86ae933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffae84c281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffae8498190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffae848b073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffaf247d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffaf2470270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffaf247f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.04-19.32.20:023][120]LogOutputDevice: Error: [Callstack] 0x00007ffaf246c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.04-19.32.20:024][120]LogOutputDevice: Error: [Callstack] 0x00007ffb20766cc1 USER32.dll!UnknownFunction []
+[2018.11.04-19.32.20:024][120]LogOutputDevice: Error: [Callstack] 0x00007ffb20766693 USER32.dll!UnknownFunction []
+[2018.11.04-19.32.20:024][120]LogOutputDevice: Error: [Callstack] 0x00007ffaf2480646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.04-19.32.20:024][120]LogOutputDevice: Error: [Callstack] 0x00007ff708be54e5 UE4Editor.exe!UnknownFunction []
+[2018.11.04-19.32.20:024][120]LogOutputDevice: Error: [Callstack] 0x00007ff708bf5b3c UE4Editor.exe!UnknownFunction []
+[2018.11.04-19.32.20:024][120]LogOutputDevice: Error: [Callstack] 0x00007ff708bf5bba UE4Editor.exe!UnknownFunction []
+[2018.11.04-19.32.20:024][120]LogOutputDevice: Error: [Callstack] 0x00007ff708c03dac UE4Editor.exe!UnknownFunction []
+[2018.11.04-19.32.20:024][120]LogOutputDevice: Error: [Callstack] 0x00007ff708c05aaa UE4Editor.exe!UnknownFunction []
+[2018.11.04-19.32.20:024][120]LogOutputDevice: Error: [Callstack] 0x00007ffb22863034 KERNEL32.DLL!UnknownFunction []
+[2018.11.04-19.32.20:024][120]LogOutputDevice: Error: [Callstack] 0x00007ffb23261461 ntdll.dll!UnknownFunction []
+[2018.11.04-19.32.20:024][120]LogOutputDevice: Error: 
+[2018.11.04-19.32.20:027][120]LogStats:                SubmitErrorReport -  0.000 s
