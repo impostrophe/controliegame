@@ -59,7 +59,10 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMy_AIS_EnvQueryTest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMy_AIS_EnvQueryTest)
 
 
-#define ControliePractice_Source_ControliePractice_My_AIS_EnvQueryTest_h_15_PRIVATE_PROPERTY_OFFSET
+#define ControliePractice_Source_ControliePractice_My_AIS_EnvQueryTest_h_15_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__NeededStatIndex() { return STRUCT_OFFSET(UMy_AIS_EnvQueryTest, NeededStatIndex); }
+
+
 #define ControliePractice_Source_ControliePractice_My_AIS_EnvQueryTest_h_12_PROLOG
 #define ControliePractice_Source_ControliePractice_My_AIS_EnvQueryTest_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
