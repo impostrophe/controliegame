@@ -1,0 +1,807 @@
+﻿Log file open, 11/20/18 09:18:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ControliePractice
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.146461
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin DatasmithMDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogStreaming: Display: Took  0.697s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD FX(tm)-8350 Eight-Core Processor           , GPU: AMD Radeon R9 200 Series
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: E:/Unreal_Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.165s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.20-15.18.27:851][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.20-15.18.27:851][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.20-15.18.27:914][  0]LogHAL: Display: Platform has ~ 16 GB [17075896320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.20-15.18.27:915][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.20-15.18.27:915][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.20-15.18.27:996][  0]LogInit: Computer: BLACKWIDOW-PC
+[2018.11.20-15.18.27:996][  0]LogInit: User: Rayray
+[2018.11.20-15.18.27:996][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.20-15.18.27:996][  0]LogInit: High frequency timer resolution =3.919285 MHz
+[2018.11.20-15.18.27:996][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.20-15.18.27:996][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.20-15.18.27:996][  0]LogMemory: Process Physical Memory: 105.18 MB used, 105.18 MB peak
+[2018.11.20-15.18.27:996][  0]LogMemory: Process Virtual Memory: 90.27 MB used, 90.27 MB peak
+[2018.11.20-15.18.27:996][  0]LogMemory: Physical Memory: 7086.61 MB used,  9198.24 MB free, 16284.84 MB total
+[2018.11.20-15.18.27:996][  0]LogMemory: Virtual Memory: 4651.27 MB used,  9198.24 MB free, 134217728.00 MB total
+[2018.11.20-15.18.28:369][  0]LogInit: Using OS detected language (en-US).
+[2018.11.20-15.18.28:369][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.20-15.18.28:486][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.20-15.18.29:306][  0]LogStreaming: Display: Took  0.937s to InitEngineTextLocalization.
+[2018.11.20-15.18.29:306][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.20-15.18.30:002][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.20-15.18.30:002][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.20-15.18.42:124][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.11.20-15.18.42:216][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.20-15.18.42:598][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2018.11.20-15.18.42:598][  0]LogD3D11RHI:       4072/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.11.20-15.18.42:600][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.20-15.18.42:600][  0]LogD3D11RHI:       0/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.20-15.18.42:600][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.20-15.18.42:615][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.20-15.18.42:615][  0]LogD3D11RHI:     GPU DeviceId: 0x67b0 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.20-15.18.42:716][  0]LogWindows: EnumDisplayDevices:
+[2018.11.20-15.18.42:716][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2018.11.20-15.18.42:717][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2018.11.20-15.18.42:717][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.20-15.18.42:718][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.20-15.18.42:718][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.20-15.18.42:718][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.20-15.18.42:719][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2018.11.20-15.18.42:719][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2018.11.20-15.18.42:719][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:22.19.677.257, unified:22.19.677.257)
+[2018.11.20-15.18.42:719][  0]LogD3D11RHI:      Driver Date: 9-22-2017
+[2018.11.20-15.18.42:719][  0]LogRHI: Texture pool is 2850 MB (70% of 4072 MB)
+[2018.11.20-15.18.42:784][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.20-15.18.43:042][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.11.20-15.18.43:204][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../controliegit/controliegame/ControliePractice/Intermediate/Shaders/WorkingDirectory/5524/).
+[2018.11.20-15.18.43:204][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rayray/AppData/Local/Temp/UnrealShaderWorkingDir/6B632BE14FB8DFCD50FADC94851859BB/'.
+[2018.11.20-15.18.45:206][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.20-15.18.45:266][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.20-15.18.45:345][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.20-15.18.45:381][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.20-15.18.45:519][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.20-15.18.45:576][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.20-15.18.45:636][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.20-15.18.45:676][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.20-15.18.45:754][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.20-15.18.45:941][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-15.18.45:960][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.20-15.18.46:112][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.20-15.18.46:112][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.20-15.18.46:188][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.20-15.18.46:188][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.20-15.18.46:215][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.20-15.18.46:241][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.20-15.18.46:276][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.20-15.18.46:322][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.20-15.18.46:350][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.20-15.18.46:437][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.20-15.18.47:030][  0]LogXGEController: Cleaning working directory: C:/Users/Rayray/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.20-15.18.47:031][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.20-15.18.47:031][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.20-15.18.47:031][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.20-15.18.50:969][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.20-15.18.51:312][  0]LogDerivedDataCache: Loaded boot cache 0.34s 73MB C:/Users/Rayray/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.20-15.18.51:312][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Rayray/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.20-15.18.51:312][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../controliegit/controliegame/ControliePractice/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.20-15.18.51:312][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.20-15.18.51:312][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../controliegit/controliegame/ControliePractice/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.20-15.18.51:312][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.20-15.18.51:389][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.20-15.18.51:402][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rayray/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.20-15.18.51:402][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.20-15.18.51:402][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.20-15.18.51:442][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.20-15.18.51:489][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.20-15.18.51:582][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.20-15.18.52:590][  0]LogAssetRegistry: FAssetRegistry took 0.0348 seconds to start up
+[2018.11.20-15.18.54:926][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.20-15.18.57:613][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.20-15.18.58:043][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.20-15.18.58:043][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.20-15.18.58:044][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.20-15.18.58:044][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.20-15.18.58:745][  0]LogNetVersion: ControliePractice 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2409719994)
+[2018.11.20-15.19.03:597][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.352247 seconds
+[2018.11.20-15.19.03:629][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.20-15.19.03:629][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.20-15.19.03:629][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.20-15.19.22:173][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.20-15.19.22:200][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.20-15.19.23:400][  0]SourceControl: Source control is disabled
+[2018.11.20-15.19.23:400][  0]SourceControl: Source control is disabled
+[2018.11.20-15.19.23:459][  0]SourceControl: Source control is disabled
+[2018.11.20-15.19.23:470][  0]SourceControl: Source control is disabled
+[2018.11.20-15.19.24:822][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.20-15.19.25:146][  0]LogOcInput: OculusInput pre-init called
+[2018.11.20-15.19.30:597][  0]LogEngine: Initializing Engine...
+[2018.11.20-15.19.30:731][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.11.20-15.19.30:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.20-15.19.30:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.20-15.19.30:778][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.20-15.19.30:778][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.20-15.19.31:551][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.20-15.19.31:701][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.20-15.19.31:778][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.20-15.19.31:802][  0]LogInit: FAudioDevice initialized.
+[2018.11.20-15.19.31:803][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.20-15.19.31:913][  0]LogDerivedDataCache: Saved boot cache 0.11s 73MB C:/Users/Rayray/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.20-15.19.31:929][  0]LogInit: Texture streaming: Enabled
+[2018.11.20-15.19.32:065][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.20-15.19.32:169][  0]LogInit: Transaction tracking system initialized
+[2018.11.20-15.19.32:450][  0]BlueprintLog: New page: Editor Load
+[2018.11.20-15.19.33:264][  0]LocalizationService: Localization service is disabled
+[2018.11.20-15.19.33:823][  0]LogLinker: Warning: Can't find file '/Game/SideScRolePlay/BluePrints/NewBlueprint'
+[2018.11.20-15.19.33:823][  0]LogLinker: Warning: Can't find file '/Game/SideScRolePlay/BluePrints/NewBlueprint'
+[2018.11.20-15.19.33:823][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScRolePlay/BluePrints/NewBlueprint.NewBlueprint_C'
+[2018.11.20-15.19.36:691][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.20-15.19.36:691][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.20-15.19.36:719][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.20-15.19.36:720][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.20-15.19.36:720][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.20-15.19.36:720][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.20-15.19.36:720][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.20-15.19.36:993][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Content/' took 0.05s
+[2018.11.20-15.19.41:176][  0]SourceControl: Source control is disabled
+[2018.11.20-15.19.41:192][  0]Cmd: MAP LOAD FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/ControlieLand.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.20-15.19.41:240][  0]LightingResults: New page: Lighting Build
+[2018.11.20-15.19.41:300][  0]MapCheck: New page: Map Check
+[2018.11.20-15.19.41:300][  0]LightingResults: New page: Lighting Build
+[2018.11.20-15.19.46:152][  0]LogBlueprint: Warning: [Compiler ControlieCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.11.20-15.19.46:161][  0]LogBlueprint: Warning: [Compiler ControlieCharacter] [0097.43] Compile of ControlieCharacter successful, but with 1 Warning(s) [in 38 ms] (/Game/Controlie/CameraCharacter/ControlieCharacter.ControlieCharacter)
+[2018.11.20-15.19.50:445][  0]LogAIModule: Creating AISystem for world ControlieLand
+[2018.11.20-15.19.51:779][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Controlie/Levels/Stream1) is flushing async loading
+[2018.11.20-15.19.51:779][  0]LogStreaming: Display: Flushing async loaders.
+[2018.11.20-15.19.51:872][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.20-15.19.52:052][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.20-15.19.52:208][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 155.991ms to complete.
+[2018.11.20-15.19.52:209][  0]LogFileHelpers: Loading map 'ControlieLand' took 11.017
+[2018.11.20-15.19.52:782][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.19.52:794][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.19.52:804][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.19.52:815][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.19.52:902][  0]LogCollectionManager: Loaded 0 collections in 0.001510 seconds
+[2018.11.20-15.19.53:074][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Saved/Collections/' took 0.01s
+[2018.11.20-15.19.53:074][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Content/Developers/Rayray/Collections/' took 0.01s
+[2018.11.20-15.19.53:074][  0]LogFileCache: Scanning file cache for directory 'E:/controliegit/controliegame/ControliePractice/Content/Collections/' took 0.01s
+[2018.11.20-15.19.53:074][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.20-15.19.53:105][  0]LogContentBrowser: Native class hierarchy populated in 0.0303 seconds. Added 2631 classes and 633 folders.
+[2018.11.20-15.19.53:186][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.11.20-15.19.54:642][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.11.20-15.19.54:702][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.11.20-15.19.55:282][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.11.20-15.19.55:282][  0]LogLoad: (Engine Initialization) Total time: 106.55 seconds
+[2018.11.20-15.19.55:282][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.20-15.19.55:293][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.20-15.19.55:396][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.20-15.19.55:416][  0]LogSlate: Took 0.017743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.20-15.19.55:444][  0]LogSlate: Took 0.026521 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.20-15.19.55:460][  0]LogSlate: Took 0.009241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.20-15.19.56:042][  1]LogRenderer: Reallocating scene render targets to support 1168x536 Format 26 NumSamples 1 (Frame:1).
+[2018.11.20-15.19.56:377][  1]LogSlate: Took 0.070165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.20-15.19.56:554][  3]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.20-15.19.56:639][  5]LogAssetRegistry: Asset discovery search completed in 64.0720 seconds
+[2018.11.20-15.19.56:641][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.20-15.19.56:642][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
+[2018.11.20-15.19.59:372][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.20.02:208][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.20.04:358][769]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Controlie/AIS/AIS_AICon.AIS_AICon
+[2018.11.20-15.20.05:405][769]LogClass: Warning: Enum '/Game/AdvancedMagicFX13/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.11.20-15.20.05:692][769]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2018.11.20-15.20.07:557][769]LogSlate: Took 0.021638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.20-15.20.15:406][137]LogSlate: Took 0.021770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.20-15.22.16:001][264]BlueprintLog: New page: Compile AIS_AICon
+[2018.11.20-15.22.16:436][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_AICon" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset" SILENT=true
+[2018.11.20-15.22.16:519][264]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_AIConB275583A43A4461967C67AAE46BA80CD.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset'
+[2018.11.20-15.23.06:971][ 11]LogSlate: Took 0.018145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.20-15.23.20:583][218]BlueprintLog: New page: Compile AIS_AICon
+[2018.11.20-15.23.20:994][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_AICon" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset" SILENT=true
+[2018.11.20-15.23.21:065][218]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_AIConCF01627445FAE6DD575FE295DE47EE63.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset'
+[2018.11.20-15.25.13:807][745]BlueprintLog: New page: Compile AIS_AICon
+[2018.11.20-15.25.14:583][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_AICon" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset" SILENT=true
+[2018.11.20-15.25.14:668][745]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_AICon46C9231B4FCA8676C30EFB8F10AF0C4E.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset'
+[2018.11.20-15.26.58:005][641]BlueprintLog: New page: Compile AIS_AICon
+[2018.11.20-15.26.58:407][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_AICon" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset" SILENT=true
+[2018.11.20-15.26.58:485][641]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_AICon0156D9CB4F33758D7598108D08B29205.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset'
+[2018.11.20-15.29.13:039][292]BlueprintLog: New page: Compile AIS_AICon
+[2018.11.20-15.29.13:459][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_AICon" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset" SILENT=true
+[2018.11.20-15.29.13:546][292]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_AIConA79967E7401B3D959595838E361C888D.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset'
+[2018.11.20-15.29.29:228][206]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.20-15.29.29:249][206]LogScript: Warning: Accessed None trying to read property SelfAISConRef
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Ambitious_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0534
+[2018.11.20-15.29.29:249][206]LogScript: Warning: Accessed None
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Ambitious_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0515
+[2018.11.20-15.29.29:249][206]LogScript: Warning: Accessed None trying to read property SelfAISConRef
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Ambitious_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0534
+[2018.11.20-15.29.29:249][206]LogScript: Warning: Accessed None
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Ambitious_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0515
+[2018.11.20-15.29.29:249][206]LogScript: Warning: Accessed None trying to read property SelfAISConRef
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Timid_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0534
+[2018.11.20-15.29.29:250][206]LogScript: Warning: Accessed None
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Timid_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0515
+[2018.11.20-15.29.29:265][206]LogAssetEditorManager: Opening Asset editor for World /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel
+[2018.11.20-15.29.29:394][206]Cmd: MAP LOAD FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.20-15.29.29:394][206]LightingResults: New page: Lighting Build
+[2018.11.20-15.29.29:396][206]LoadErrors: New page: Loading map: Controlie_AISLevel.umap
+[2018.11.20-15.29.29:398][206]MapCheck: New page: Map Check
+[2018.11.20-15.29.29:398][206]LightingResults: New page: Lighting Build
+[2018.11.20-15.29.29:535][206]LogScript: Warning: Accessed None trying to read property SelfAISConRef
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Ambitious_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0534
+[2018.11.20-15.29.29:535][206]LogScript: Warning: Accessed None
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Ambitious_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0515
+[2018.11.20-15.29.29:536][206]LogScript: Warning: Accessed None trying to read property SelfAISConRef
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Ambitious_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0534
+[2018.11.20-15.29.29:536][206]LogScript: Warning: Accessed None
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Ambitious_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0515
+[2018.11.20-15.29.29:536][206]LogScript: Warning: Accessed None trying to read property SelfAISConRef
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Timid_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0534
+[2018.11.20-15.29.29:536][206]LogScript: Warning: Accessed None
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Timid_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0515
+[2018.11.20-15.29.29:704][206]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.20-15.29.29:930][206]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.20-15.29.30:105][206]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 175.257ms to complete.
+[2018.11.20-15.29.30:110][206]LogFileHelpers: Loading map 'Controlie_AISLevel' took 0.718
+[2018.11.20-15.29.30:795][236]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.20-15.29.30:857][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.29.30:857][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.20-15.29.30:891][236]PIE: New page: PIE session: Controlie_AISLevel (Nov 20, 2018, 3:29:30 AM)
+[2018.11.20-15.29.30:892][236]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel
+[2018.11.20-15.29.30:902][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010268s)
+[2018.11.20-15.29.30:903][236]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.20-15.29.30:903][236]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2018.11.20-15.29.30:903][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel to /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel (0.011263s)
+[2018.11.20-15.29.31:047][236]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.20-15.29.31:064][236]LogInit: FAudioDevice initialized.
+[2018.11.20-15.29.31:108][236]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.20-15.29.31:114][236]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel up for play (max tick rate 0) at 2018.11.20-09.29.31
+[2018.11.20-15.29.31:115][236]LogWorld: Bringing up level for play took: 0.005983
+[2018.11.20-15.29.31:150][236]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2018.11.20-15.29.31:155][236]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel 0.549
+[2018.11.20-15.29.31:156][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.29.50:483][561]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_0.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.20-15.29.50:483][561]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_0.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.20-15.30.14:614][128]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_3.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.20-15.30.14:614][128]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_3.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.20-15.30.16:291][237]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_5.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.20-15.30.16:291][237]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_5.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.20-15.30.29:375][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	AIS_Character_C /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Timid_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:ExecuteUbergraph_AIS_Character:13EC
+[2018.11.20-15.30.29:375][ 53]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  AIS_Character Function:  Execute Ubergraph AIS Character Graph:  EventGraph Node:  Un Possess
+[2018.11.20-15.30.29:376][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	AIS_Character_C /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Habit_Creature_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:ExecuteUbergraph_AIS_Character:13EC
+[2018.11.20-15.30.29:376][ 53]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  AIS_Character Function:  Execute Ubergraph AIS Character Graph:  EventGraph Node:  Un Possess
+[2018.11.20-15.30.46:364][160]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_6.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.20-15.30.46:364][160]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_6.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.20-15.31.02:801][209]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.31.02:802][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.31.02:847][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.20-15.31.02:847][209]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.31.02:984][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.31.03:049][210]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.11.20-15.31.04:704][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.31.24:727][781]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.20-15.31.24:788][781]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.31.24:788][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.20-15.31.24:789][781]PIE: New page: PIE session: Controlie_AISLevel (Nov 20, 2018, 3:31:24 AM)
+[2018.11.20-15.31.24:789][781]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel
+[2018.11.20-15.31.24:797][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008722s)
+[2018.11.20-15.31.24:798][781]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.20-15.31.24:798][781]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.11.20-15.31.24:798][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel to /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel (0.009727s)
+[2018.11.20-15.31.24:950][781]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.20-15.31.24:969][781]LogInit: FAudioDevice initialized.
+[2018.11.20-15.31.25:004][781]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.20-15.31.25:009][781]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel up for play (max tick rate 0) at 2018.11.20-09.31.25
+[2018.11.20-15.31.25:010][781]LogWorld: Bringing up level for play took: 0.005446
+[2018.11.20-15.31.25:027][781]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel 0.42
+[2018.11.20-15.31.25:027][781]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.31.27:792][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.31.27:793][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.31.27:833][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.20-15.31.27:833][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.31.27:954][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.31.27:982][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.11.20-15.31.29:280][128]LogEditorViewport: Clicking on Actor (LMB): AIS_Character_C (Ambitious_NPC)
+[2018.11.20-15.31.33:460][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.31.44:467][ 90]LogScript: Warning: Accessed None trying to read property SelfAISConRef
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Ambitious_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0534
+[2018.11.20-15.31.44:467][ 90]LogScript: Warning: Accessed None
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Ambitious_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0515
+[2018.11.20-15.31.44:467][ 90]LogScript: Warning: Accessed None trying to read property SelfAISConRef
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Ambitious_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0534
+[2018.11.20-15.31.44:468][ 90]LogScript: Warning: Accessed None
+	AIS_Character_C /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Ambitious_NPC
+	Function /Game/Controlie/AIS/AIS_Character.AIS_Character_C:UserConstructionScript:0515
+[2018.11.20-15.31.45:032][ 95]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/Controlie_AISLevel4F05F81345BEB4092C1FD19DDC4BACB4.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel.umap'
+[2018.11.20-15.31.45:203][ 95]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/Controlie_AISLevel_BuiltDataB95D32C149A22C3F866E1D826BCB93DA.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel_BuiltData.uasset'
+[2018.11.20-15.31.58:437][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.20-15.31.58:496][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.31.58:496][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.20-15.31.58:496][ 60]PIE: New page: PIE session: Controlie_AISLevel (Nov 20, 2018, 3:31:58 AM)
+[2018.11.20-15.31.58:496][ 60]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel
+[2018.11.20-15.31.58:505][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008921s)
+[2018.11.20-15.31.58:506][ 60]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.20-15.31.58:506][ 60]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2018.11.20-15.31.58:506][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel to /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel (0.010074s)
+[2018.11.20-15.31.58:655][ 60]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.20-15.31.58:673][ 60]LogInit: FAudioDevice initialized.
+[2018.11.20-15.31.58:707][ 60]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.20-15.31.58:713][ 60]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel up for play (max tick rate 0) at 2018.11.20-09.31.58
+[2018.11.20-15.31.58:714][ 60]LogWorld: Bringing up level for play took: 0.005334
+[2018.11.20-15.31.58:732][ 60]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel 0.124
+[2018.11.20-15.31.58:732][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.32.15:484][457]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_0.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.20-15.32.15:484][457]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_0.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.20-15.32.29:569][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.32.29:570][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.32.29:611][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.20-15.32.29:611][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.32.29:744][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.32.29:795][569]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.20-15.32.32:186][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.32.34:498][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.34.45:643][302]LogLinker: Warning: Can't find file '/Game/Centaur/Meshes/SK_ARROW_ACTION'
+[2018.11.20-15.34.45:643][302]LogLinker: Warning: Can't find file '/Game/Centaur/Meshes/SK_ARROW_ACTION'
+[2018.11.20-15.34.45:643][302]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Centaur/Meshes/SK_ARROW_ACTION.SK_Arrow_Action'
+[2018.11.20-15.35.01:014][111]BlueprintLog: New page: Compile AIS_AICon
+[2018.11.20-15.35.01:452][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_AICon" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset" SILENT=true
+[2018.11.20-15.35.01:541][111]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_AICon49788AE6497D275EFEE5E8A155E68247.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset'
+[2018.11.20-15.35.03:016][216]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.20-15.35.03:075][216]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.35.03:075][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.20-15.35.03:075][216]PIE: New page: PIE session: Controlie_AISLevel (Nov 20, 2018, 3:35:03 AM)
+[2018.11.20-15.35.03:075][216]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel
+[2018.11.20-15.35.03:084][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008882s)
+[2018.11.20-15.35.03:085][216]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.20-15.35.03:085][216]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2018.11.20-15.35.03:085][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel to /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel (0.009967s)
+[2018.11.20-15.35.03:243][216]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.20-15.35.03:259][216]LogInit: FAudioDevice initialized.
+[2018.11.20-15.35.03:290][216]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.20-15.35.03:296][216]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel up for play (max tick rate 0) at 2018.11.20-09.35.03
+[2018.11.20-15.35.03:297][216]LogWorld: Bringing up level for play took: 0.005381
+[2018.11.20-15.35.03:314][216]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel 0.707
+[2018.11.20-15.35.03:314][216]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.35.21:186][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.35.21:186][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.35.21:222][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.20-15.35.21:222][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.35.21:352][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.35.21:390][573]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.11.20-15.35.22:970][682]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.20-15.35.30:481][146]BlueprintLog: New page: Compile AIS_AICon
+[2018.11.20-15.35.30:916][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_AICon" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset" SILENT=true
+[2018.11.20-15.35.30:999][146]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_AICon36FEBB564B919D49BA3BC9B6BCD39AD3.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset'
+[2018.11.20-15.35.31:354][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.35.31:433][173]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.20-15.35.31:492][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.35.31:492][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.20-15.35.31:492][173]PIE: New page: PIE session: Controlie_AISLevel (Nov 20, 2018, 3:35:31 AM)
+[2018.11.20-15.35.31:492][173]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel
+[2018.11.20-15.35.31:501][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008608s)
+[2018.11.20-15.35.31:501][173]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.20-15.35.31:502][173]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2018.11.20-15.35.31:502][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel to /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel (0.009643s)
+[2018.11.20-15.35.31:651][173]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.20-15.35.31:669][173]LogInit: FAudioDevice initialized.
+[2018.11.20-15.35.31:700][173]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.20-15.35.31:707][173]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel up for play (max tick rate 0) at 2018.11.20-09.35.31
+[2018.11.20-15.35.31:708][173]LogWorld: Bringing up level for play took: 0.006569
+[2018.11.20-15.35.31:725][173]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel 1.118
+[2018.11.20-15.35.31:725][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.35.49:828][545]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.20-15.35.49:828][545]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.20-15.35.57:362][ 96]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.35.57:362][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.35.57:400][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.20-15.35.57:400][ 96]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.35.57:527][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.35.57:586][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.11.20-15.35.58:685][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.36.38:834][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.39.42:715][  8]BlueprintLog: New page: Compile AIS_AICon
+[2018.11.20-15.39.43:153][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_AICon" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset" SILENT=true
+[2018.11.20-15.39.43:235][  8]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_AICon858DA2D747F98502FD3C42951A50B806.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset'
+[2018.11.20-15.39.44:893][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.39.45:551][125]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/Controlie_AISLevel806037BD43CFB1C34FC663B82934F068.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel.umap'
+[2018.11.20-15.39.45:707][125]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/Controlie_AISLevel_BuiltData48A118004F8C0425AE0D1CBE57B39BDB.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/Levels/Controlie_AISLevel_BuiltData.uasset'
+[2018.11.20-15.39.46:378][175]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.20-15.39.46:435][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.39.46:436][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.20-15.39.46:436][175]PIE: New page: PIE session: Controlie_AISLevel (Nov 20, 2018, 3:39:46 AM)
+[2018.11.20-15.39.46:436][175]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel
+[2018.11.20-15.39.46:445][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008566s)
+[2018.11.20-15.39.46:445][175]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.20-15.39.46:446][175]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2018.11.20-15.39.46:446][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel to /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel (0.009677s)
+[2018.11.20-15.39.46:605][175]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.20-15.39.46:622][175]LogInit: FAudioDevice initialized.
+[2018.11.20-15.39.46:654][175]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.20-15.39.46:659][175]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel up for play (max tick rate 0) at 2018.11.20-09.39.46
+[2018.11.20-15.39.46:660][175]LogWorld: Bringing up level for play took: 0.005399
+[2018.11.20-15.39.46:677][175]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel 0.07
+[2018.11.20-15.39.46:678][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.40.01:213][210]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.20-15.40.01:213][210]PIE: Warning: Invalid Simulate Options: Body (PlantFoodItem_C_1.StaticMesh truffle) is set to simulate physics but Collision Enabled is incompatible
+[2018.11.20-15.40.10:237][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.40.10:238][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.40.10:276][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.20-15.40.10:276][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.40.10:401][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.40.10:455][839]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.11.20-15.40.14:945][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.20-15.40.16:324][231]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Centaur/Animations/ANIM_Centaur_2HitComboSword.ANIM_Centaur_2HitComboSword
+[2018.11.20-15.40.16:346][231]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Centaur/Animations/ANIM_Centaur_2HitComboSword.ANIM_Centaur_2HitComboSword) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.20-15.40.17:368][297]BlueprintLog: New page: Compile AIS_AICon
+[2018.11.20-15.40.17:792][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_AICon" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset" SILENT=true
+[2018.11.20-15.40.17:888][297]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_AIConB039E2724B7932CD5879EBA7893F0A53.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset'
+[2018.11.20-15.40.18:336][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.40.18:402][327]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.20-15.40.18:459][327]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.40.18:460][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.20-15.40.18:460][327]PIE: New page: PIE session: Controlie_AISLevel (Nov 20, 2018, 3:40:18 AM)
+[2018.11.20-15.40.18:460][327]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel
+[2018.11.20-15.40.18:470][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010119s)
+[2018.11.20-15.40.18:471][327]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.20-15.40.18:471][327]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2018.11.20-15.40.18:471][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel to /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel (0.011321s)
+[2018.11.20-15.40.18:630][327]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.20-15.40.18:648][327]LogInit: FAudioDevice initialized.
+[2018.11.20-15.40.18:681][327]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.20-15.40.18:686][327]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel up for play (max tick rate 0) at 2018.11.20-09.40.18
+[2018.11.20-15.40.18:687][327]LogWorld: Bringing up level for play took: 0.005516
+[2018.11.20-15.40.18:704][327]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel 0.098
+[2018.11.20-15.40.18:705][327]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.40.28:368][ 44]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.40.28:368][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.40.28:406][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.20-15.40.28:406][ 44]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.40.28:537][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.40.28:576][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.11.20-15.40.35:288][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.40.38:690][738]BlueprintLog: New page: Compile AIS_AICon
+[2018.11.20-15.40.39:121][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_AICon" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset" SILENT=true
+[2018.11.20-15.40.39:205][738]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_AIConAD9D5A4640AE81E9108B8DAAAB5F81AF.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset'
+[2018.11.20-15.40.40:148][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.40.40:257][807]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.20-15.40.40:314][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.40.40:314][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.20-15.40.40:314][807]PIE: New page: PIE session: Controlie_AISLevel (Nov 20, 2018, 3:40:40 AM)
+[2018.11.20-15.40.40:314][807]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel
+[2018.11.20-15.40.40:323][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008916s)
+[2018.11.20-15.40.40:324][807]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.20-15.40.40:324][807]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2018.11.20-15.40.40:324][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel to /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel (0.009890s)
+[2018.11.20-15.40.40:471][807]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.20-15.40.40:488][807]LogInit: FAudioDevice initialized.
+[2018.11.20-15.40.40:521][807]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.20-15.40.40:526][807]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel up for play (max tick rate 0) at 2018.11.20-09.40.40
+[2018.11.20-15.40.40:527][807]LogWorld: Bringing up level for play took: 0.005189
+[2018.11.20-15.40.40:545][807]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel -0.062
+[2018.11.20-15.40.40:546][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.40.43:839][ 45]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_0
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:010F
+[2018.11.20-15.40.43:839][ 45]LogScript: Warning: Accessed None
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_0
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:0124
+[2018.11.20-15.40.43:839][ 45]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_1
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:010F
+[2018.11.20-15.40.43:839][ 45]LogScript: Warning: Accessed None
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_1
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:0124
+[2018.11.20-15.40.43:839][ 45]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_2
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:010F
+[2018.11.20-15.40.43:839][ 45]LogScript: Warning: Accessed None
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_2
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:0124
+[2018.11.20-15.40.43:839][ 45]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_3
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:010F
+[2018.11.20-15.40.43:839][ 45]LogScript: Warning: Accessed None
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_3
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:0124
+[2018.11.20-15.40.43:839][ 45]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_4
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:010F
+[2018.11.20-15.40.43:839][ 45]LogScript: Warning: Accessed None
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_4
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:0124
+[2018.11.20-15.40.43:840][ 45]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_5
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:010F
+[2018.11.20-15.40.43:840][ 45]LogScript: Warning: Accessed None
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_5
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:0124
+[2018.11.20-15.40.43:840][ 45]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_6
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:010F
+[2018.11.20-15.40.43:840][ 45]LogScript: Warning: Accessed None
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_6
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:0124
+[2018.11.20-15.40.43:840][ 45]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_7
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:010F
+[2018.11.20-15.40.43:840][ 45]LogScript: Warning: Accessed None
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_7
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:0124
+[2018.11.20-15.40.43:840][ 45]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_8
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:010F
+[2018.11.20-15.40.43:840][ 45]LogScript: Warning: Accessed None
+	StatBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.StatBar_C_8
+	Function /Game/Controlie/AIS/UI/StatBar.StatBar_C:Get_StatName_ColorAndOpacity_0:0124
+[2018.11.20-15.40.46:678][246]LogBlueprintUserMessages: [AIS_AICon_C_0] Hello
+[2018.11.20-15.40.49:312][432]LogBlueprintUserMessages: [AIS_AICon_C_0] Hello
+[2018.11.20-15.40.50:983][549]LogBlueprintUserMessages: [AIS_AICon_C_0] Hello
+[2018.11.20-15.40.52:366][646]LogBlueprintUserMessages: [AIS_AICon_C_0] Hello
+[2018.11.20-15.40.55:249][848]LogBlueprintUserMessages: [AIS_AICon_C_0] Hello
+[2018.11.20-15.40.55:424][860]LogBlueprintUserMessages: [AIS_AICon_C_0] Hello
+[2018.11.20-15.40.56:021][902]LogBlueprintUserMessages: [AIS_AICon_C_0] Hello
+[2018.11.20-15.40.56:050][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.40.56:051][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.40.56:089][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.20-15.40.56:089][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.40.56:215][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.20-15.40.56:253][905]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.11.20-15.40.57:085][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.41.46:172][138]BlueprintLog: New page: Compile AIS_AICon
+[2018.11.20-15.41.46:601][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controlie/AIS/AIS_AICon" FILE="../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset" SILENT=true
+[2018.11.20-15.41.46:689][138]LogSavePackage: Moving '../../../../../controliegit/controliegame/ControliePractice/Saved/AIS_AIConCCD6E9A0405E66DBAFE090BB7F382040.tmp' to '../../../../../controliegit/controliegame/ControliePractice/Content/Controlie/AIS/AIS_AICon.uasset'
+[2018.11.20-15.41.49:688][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-15.41.49:780][354]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.20-15.41.49:838][354]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.41.49:838][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.20-15.41.49:838][354]PIE: New page: PIE session: Controlie_AISLevel (Nov 20, 2018, 3:41:49 AM)
+[2018.11.20-15.41.49:838][354]LogPlayLevel: Creating play world package: /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel
+[2018.11.20-15.41.49:847][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008861s)
+[2018.11.20-15.41.49:848][354]LogAIModule: Creating AISystem for world Controlie_AISLevel
+[2018.11.20-15.41.49:848][354]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2018.11.20-15.41.49:848][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel to /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel (0.010052s)
+[2018.11.20-15.41.49:992][354]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.20-15.41.50:009][354]LogInit: FAudioDevice initialized.
+[2018.11.20-15.41.50:044][354]LogLoad: Game class is 'CameraCharacterGameMode_C'
+[2018.11.20-15.41.50:050][354]LogWorld: Bringing World /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel up for play (max tick rate 0) at 2018.11.20-09.41.50
+[2018.11.20-15.41.50:051][354]LogWorld: Bringing up level for play took: 0.005529
+[2018.11.20-15.41.50:068][354]PIE: Play in editor start time for /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel -0.539
+[2018.11.20-15.41.50:069][354]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel' with GeneratedClass '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel_C' with ClassGeneratedBy '/Game/Controlie/Levels/Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.Controlie_AISLevel'
+[2018.11.20-15.41.52:027][484]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Fun_Destination
+	AIS_AICon_C /Game/Controlie/Levels/UEDPIE_0_Controlie_AISLevel.Controlie_AISLevel:PersistentLevel.AIS_AICon_C_0
+	Function /Game/Controlie/AIS/AIS_AICon.AIS_AICon_C:ExecuteUbergraph_AIS_AICon:0112
+[2018.11.20-15.41.52:027][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Fun_Destination". Blueprint:  AIS_AICon Function:  Execute Ubergraph AIS AICon Graph:  EventGraph Node:  Level Check
+[2018.11.20-15.41.52:027][484]LogOutputDevice: Warning: 
+
+Script Stack:
+AIS_AICon_C.LevelCheck
+AIS_AICon_C.ExecuteUbergraph_AIS_AICon
+AIS_AICon_C.OnCompleted_17D9EBAD49E0577C7CF6EE9AFF12A8A0
+
+[2018.11.20-15.41.52:580][484]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.554 s
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: 
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: Ensure condition failed: Stack.MostRecentPropertyAddress [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp] [Line: 844]
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: 
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: Stack: 
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb6faf71f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb6f830c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb6f84b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb64b41a03 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb64b61b96 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb64b4205d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb64b61b96 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb64936467 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb64b61133 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb501e8033 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb4bebce71 UE4Editor-AnimGraphRuntime.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb4bf1db42 UE4Editor-AnimGraphRuntime.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb4bf02118 UE4Editor-AnimGraphRuntime.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb50327405 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb50327647 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-15.41.52:580][484]LogOutputDevice: Error: [Callstack] 0x00007ffb502e769c UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb5067c1a1 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb50f11f58 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb5069f918 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb5067a149 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb5068397f UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb50686060 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb6f6b1f92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb6f6b2456 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb6f6c6d25 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb51415b04 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb51424d92 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb50b287e4 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb50b34112 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb4ed07335 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffb4f5ff666 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ff622815cbd UE4Editor.exe!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ff622825b3c UE4Editor.exe!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ff622825bba UE4Editor.exe!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ff622833dac UE4Editor.exe!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ff622835aaa UE4Editor.exe!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffba8413034 KERNEL32.DLL!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: [Callstack] 0x00007ffbaafe1471 ntdll.dll!UnknownFunction []
+[2018.11.20-15.41.52:581][484]LogOutputDevice: Error: 
+[2018.11.20-15.41.52:584][484]LogStats:                SubmitErrorReport -  0.000 s
