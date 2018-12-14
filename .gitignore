@@ -75,3 +75,16 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Here I am to break things, trying out ignoring stuff from marketplace
+Content/AdvancedCelShader
+Content/AdvancedMagicFX13
+Content/AdvancedVillagePack
+Content/CartoonRtsFoliage
+Content/ExampleContent
+Content/LowPolyForestPack
+Content/LowPolyWater
+Content/Mannequin
+Content/MobileStarterContent
+Content/PolygonCity
+Content/QuadrapedCreatures
